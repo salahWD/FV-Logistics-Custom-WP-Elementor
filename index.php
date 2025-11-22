@@ -1,0 +1,3870 @@
+<!DOCTYPE html>
+<html lang="en" style="scroll-behavior: smooth;">
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="  Transport &amp; Logistics HTML Template">
+    <meta name="keywords" content="  Transport &amp; Logistics HTML Template">
+    <meta name="robots" content="INDEX,FOLLOW">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Title -->
+    <title> Transport &amp; Logistics HTML Template</title>
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="/assets/images/logo/favicon.png">
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <!-- Stoshi font -->
+    <link rel="stylesheet" href="assets/css/satoshi.css">
+    <!-- swiper Slider -->
+    <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
+    <!-- AOS -->
+    <!-- <link rel="stylesheet" href="assets/css/aos.css"> -->
+    <!-- Circle Progress -->
+    <link rel="stylesheet" href="assets/css/animated-radial-progress.css">
+    <!-- magnific -->
+    <link rel="stylesheet" href="assets/css/magnific-popup.css">
+    <!-- Main css -->
+    <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/style_006.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/style_005.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/style_004.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/style_003.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/style_002.css">
+</head>
+
+<body style="" data-aos-easing="ease" data-aos-duration="400" data-aos-delay="0">
+
+    <!--==================== Preloader Start ====================-->
+    <div class="preloader bg-white tw-h-screen justify-content-center align-items-center tw-z-999 position-fixed top-0 tw-start-0 w-100 h-100"
+        style="display: none;">
+        <div class="car-road">
+            <div class="car">
+                <div class="car-top">
+                    <div class="window">
+                    </div>
+                </div>
+                <div class="car-base">
+                </div>
+                <div class="wheel-left wheel">
+                    <div class="wheel-spike">
+                    </div>
+                    <div class="wheel-center">
+                    </div>
+                </div>
+                <div class="wheel-right wheel">
+                    <div class="wheel-spike">
+                    </div>
+                    <div class="wheel-center">
+                    </div>
+                </div>
+                <div class="head-light">
+
+                </div>
+            </div>
+            <div class="road">
+            </div>
+        </div>
+    </div>
+    <!--==================== Preloader End ====================-->
+
+    <!--==================== Overlay Start ====================-->
+    <div class="overlay"></div>
+    <!--==================== Overlay End ====================-->
+
+    <!--==================== Sidebar Overlay End ====================-->
+    <div class="side-overlay"></div>
+    <!--==================== Sidebar Overlay End ====================-->
+
+    <!-- ==================== Scroll to Top End Here ==================== -->
+    <div class="progress-wrap cursor-big">
+        <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
+            <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98"
+                style="transition: stroke-dashoffset 10ms linear; stroke-dasharray: 307.919px, 307.919px; stroke-dashoffset: 307.919px;">
+            </path>
+        </svg>
+    </div>
+    <!-- ==================== Scroll to Top End Here ==================== -->
+
+    <!-- ==================== Mobile Menu Start Here ==================== -->
+    <div
+        class="mobile-menu d-lg-none d-block scroll-sm position-fixed bg-white tw-w-300-px tw-h-screen overflow-y-auto tw-p-6 tw-z-999 tw--translate-x-full tw-pb-68 ">
+
+        <button type="button"
+            class="close-button position-absolute tw-end-0 top-0 tw-me-2 tw-mt-2 tw-w-605 tw-h-605 rounded-circle d-flex justify-content-center align-items-center text-main-two-600 bg-neutral-200 hover-bg-main-two-600 hover-text-white">
+            <i class="ph ph-x"></i>
+        </button>
+
+        <div class="mobile-menu__inner">
+            <a href="https://wowtheme7.com/tf/logistick/logistick/index.html" class="mobile-menu__logo">
+                <img src="assets/images/logo2.png" alt="Logo">
+            </a>
+            <div class="mobile-menu__menu">
+                <!-- Nav menu Start -->
+                <ul class="nav-menu cursor-small d-lg-flex align-items-center nav-menu--mobile d-block tw-mt-8">
+                    <li class="nav-menu__item has-submenu position-relative activePage">
+                        <a href="javascript:void(0)"
+                            class="nav-menu__link hover--translate-y-1 text-main-two-600 tw-py-9 fw-medium w-100 tw-pe-4">Home</a>
+                        <ul
+                            class="nav-submenu scroll-sm position-absolute start-0 top-100 tw-w-max bg-white tw-rounded-md overflow-hidden tw-p-2 tw-mt-4 tw-duration-200 tw-z-99">
+                            <li class="nav-menu__item">
+                                <a href="https://wowtheme7.com/tf/logistick/logistick/index.html"
+                                    class="nav-submenu__link hover-bg-neutral-100 text-black fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                                    Home One</a>
+                            </li>
+                            <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                                <a href="https://wowtheme7.com/tf/logistick/logistick/index-2.html"
+                                    class="nav-submenu__link hover-bg-neutral-100 text-black fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                                    Home Two</a>
+                            </li>
+                            <li
+                                class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative activePage">
+                                <a href="https://wowtheme7.com/tf/logistick/logistick/index-3.html"
+                                    class="nav-submenu__link hover-bg-neutral-100 text-black fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                                    Home Three</a>
+                            </li>
+                            <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                                <a href="https://wowtheme7.com/tf/logistick/logistick/index-4.html"
+                                    class="nav-submenu__link hover-bg-neutral-100 text-black fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                                    Home Four</a>
+                            </li>
+                            <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                                <a href="https://wowtheme7.com/tf/logistick/logistick/index-5.html"
+                                    class="nav-submenu__link hover-bg-neutral-100 text-black fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                                    Home Five</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="nav-menu__item has-submenu position-relative">
+                        <a href="javascript:void(0)"
+                            class="nav-menu__link hover--translate-y-1 text-main-two-600 tw-py-9 fw-medium w-100 tw-pe-4">Pages</a>
+                        <ul
+                            class="nav-submenu scroll-sm position-absolute start-0 top-100 tw-w-max bg-white tw-rounded-md overflow-hidden tw-p-2 tw-mt-4 tw-duration-200 tw-z-99">
+                            <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                                <a href="https://wowtheme7.com/tf/logistick/logistick/project.html"
+                                    class="nav-submenu__link hover-bg-neutral-100 text-black fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                                    Project</a>
+                            </li>
+                            <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                                <a href="https://wowtheme7.com/tf/logistick/logistick/project-details.html"
+                                    class="nav-submenu__link hover-bg-neutral-100 text-black fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                                    Project Details</a>
+                            </li>
+                            <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                                <a href="https://wowtheme7.com/tf/logistick/logistick/team.html"
+                                    class="nav-submenu__link hover-bg-neutral-100 text-black fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                                    Team</a>
+                            </li>
+                            <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                                <a href="https://wowtheme7.com/tf/logistick/logistick/team-details.html"
+                                    class="nav-submenu__link hover-bg-neutral-100 text-black fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                                    Team Details</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="nav-menu__item has-submenu position-relative">
+                        <a href="javascript:void(0)"
+                            class="nav-menu__link hover--translate-y-1 text-main-two-600 tw-py-9 fw-medium w-100 tw-pe-4">Services</a>
+                        <ul
+                            class="nav-submenu scroll-sm position-absolute start-0 top-100 tw-w-max bg-white tw-rounded-md overflow-hidden tw-p-2 tw-mt-4 tw-duration-200 tw-z-99">
+                            <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                                <a href="https://wowtheme7.com/tf/logistick/logistick/service.html"
+                                    class="nav-submenu__link hover-bg-neutral-100 text-black fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                                    Service </a>
+                            </li>
+                            <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                                <a href="https://wowtheme7.com/tf/logistick/logistick/service-details.html"
+                                    class="nav-submenu__link hover-bg-neutral-100 text-black fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">Service
+                                    Details</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="nav-menu__item">
+                        <a href="https://wowtheme7.com/tf/logistick/logistick/about.html"
+                            class="nav-menu__link hover--translate-y-1 text-main-two-600 tw-py-9 fw-medium w-100">About</a>
+                    </li>
+                    <li class="nav-menu__item has-submenu position-relative">
+                        <a href="javascript:void(0)"
+                            class="nav-menu__link hover--translate-y-1 text-main-two-600 tw-py-9 fw-medium w-100 tw-pe-4">News</a>
+                        <ul
+                            class="nav-submenu scroll-sm position-absolute start-0 top-100 tw-w-max bg-white tw-rounded-md overflow-hidden tw-p-2 tw-mt-4 tw-duration-200 tw-z-99">
+                            <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                                <a href="https://wowtheme7.com/tf/logistick/logistick/blog.html"
+                                    class="nav-submenu__link hover-bg-neutral-100 text-black fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                                    News</a>
+                            </li>
+                            <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                                <a href="https://wowtheme7.com/tf/logistick/logistick/blog-details.html"
+                                    class="nav-submenu__link hover-bg-neutral-100 text-black fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                                    News Details</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="nav-menu__item">
+                        <a href="https://wowtheme7.com/tf/logistick/logistick/contact.html"
+                            class="nav-menu__link hover--translate-y-1 text-main-two-600 tw-py-9 fw-medium w-100">Contact</a>
+                    </li>
+                </ul>
+                <!-- Nav menu End  -->
+
+            </div>
+        </div>
+    </div>
+    <!-- ==================== Mobile Menu End Here ==================== -->
+
+
+    <div
+        class="absolute-headers md-bg-main-two-600 position-absolute top-0 tw-start-0 tw-end-0 w-100 tw-z-99 header py-0">
+
+
+
+
+        <!-- ==================== Header Start Here ==================== -->
+        <header class="transition-all links-white">
+            <div class="tw-container-1760-px tw-px-4 pe-lg-0 mx-auto">
+                <nav class="bg-green d-flex justify-content-between tw-ps-3 tw-pe-100-px py-lg-0 py-3">
+
+                    <div class="d-flex">
+                        <!-- Logo Start -->
+                        <a href="https://wowtheme7.com/tf/logistick/logistick/index.html"
+                            class="cursor-big bg-main-600 d-lg-flex d-none justify-content-center align-items-center tw-ps-10 tw-pe-14 hexagon-right">
+                            <img src="assets/images/logo4.png" alt="Logo" class="max-w-175-px">
+                        </a>
+                        <!-- Logo End  -->
+                        <!-- Logo Start -->
+                        <a href="https://wowtheme7.com/tf/logistick/logistick/index.html"
+                            class="d-lg-none d-flex justify-content-center align-items-center">
+                            <img src="assets/images/logo3.png" alt="Logo" class="max-w-175-px">
+                        </a>
+                        <!-- Logo End  -->
+
+                        <!-- Menu Start  -->
+                        <div class="header-menu d-lg-block d-none ps-108-px">
+                            <!-- Nav menu Start -->
+                            <ul class="nav-menu cursor-small d-lg-flex align-items-center xl-tw-gap-12 tw-gap-4">
+                                <li class="nav-menu__item has-submenu position-relative activePage">
+                                    <a href="javascript:void(0)"
+                                        class="nav-menu__link hover--translate-y-1 text-main-two-600 tw-py-9 fw-medium w-100 tw-pe-4">Home</a>
+                                    <ul
+                                        class="nav-submenu scroll-sm position-absolute start-0 top-100 tw-w-max bg-white tw-rounded-md overflow-hidden tw-p-2 tw-mt-4 tw-duration-200 tw-z-99">
+                                        <li class="nav-menu__item">
+                                            <a href="https://wowtheme7.com/tf/logistick/logistick/index.html"
+                                                class="nav-submenu__link hover-bg-neutral-100 text-black fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                                                Home One</a>
+                                        </li>
+                                        <li
+                                            class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                                            <a href="https://wowtheme7.com/tf/logistick/logistick/index-2.html"
+                                                class="nav-submenu__link hover-bg-neutral-100 text-black fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                                                Home Two</a>
+                                        </li>
+                                        <li
+                                            class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative activePage">
+                                            <a href="https://wowtheme7.com/tf/logistick/logistick/index-3.html"
+                                                class="nav-submenu__link hover-bg-neutral-100 text-black fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                                                Home Three</a>
+                                        </li>
+                                        <li
+                                            class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                                            <a href="https://wowtheme7.com/tf/logistick/logistick/index-4.html"
+                                                class="nav-submenu__link hover-bg-neutral-100 text-black fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                                                Home Four</a>
+                                        </li>
+                                        <li
+                                            class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                                            <a href="https://wowtheme7.com/tf/logistick/logistick/index-5.html"
+                                                class="nav-submenu__link hover-bg-neutral-100 text-black fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                                                Home Five</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="nav-menu__item has-submenu position-relative">
+                                    <a href="javascript:void(0)"
+                                        class="nav-menu__link hover--translate-y-1 text-main-two-600 tw-py-9 fw-medium w-100 tw-pe-4">Pages</a>
+                                    <ul
+                                        class="nav-submenu scroll-sm position-absolute start-0 top-100 tw-w-max bg-white tw-rounded-md overflow-hidden tw-p-2 tw-mt-4 tw-duration-200 tw-z-99">
+                                        <li
+                                            class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                                            <a href="https://wowtheme7.com/tf/logistick/logistick/project.html"
+                                                class="nav-submenu__link hover-bg-neutral-100 text-black fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                                                Project</a>
+                                        </li>
+                                        <li
+                                            class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                                            <a href="https://wowtheme7.com/tf/logistick/logistick/project-details.html"
+                                                class="nav-submenu__link hover-bg-neutral-100 text-black fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                                                Project Details</a>
+                                        </li>
+                                        <li
+                                            class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                                            <a href="https://wowtheme7.com/tf/logistick/logistick/team.html"
+                                                class="nav-submenu__link hover-bg-neutral-100 text-black fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                                                Team</a>
+                                        </li>
+                                        <li
+                                            class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                                            <a href="https://wowtheme7.com/tf/logistick/logistick/team-details.html"
+                                                class="nav-submenu__link hover-bg-neutral-100 text-black fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                                                Team Details</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="nav-menu__item has-submenu position-relative">
+                                    <a href="javascript:void(0)"
+                                        class="nav-menu__link hover--translate-y-1 text-main-two-600 tw-py-9 fw-medium w-100 tw-pe-4">Services</a>
+                                    <ul
+                                        class="nav-submenu scroll-sm position-absolute start-0 top-100 tw-w-max bg-white tw-rounded-md overflow-hidden tw-p-2 tw-mt-4 tw-duration-200 tw-z-99">
+                                        <li
+                                            class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                                            <a href="https://wowtheme7.com/tf/logistick/logistick/service.html"
+                                                class="nav-submenu__link hover-bg-neutral-100 text-black fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                                                Service </a>
+                                        </li>
+                                        <li
+                                            class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                                            <a href="https://wowtheme7.com/tf/logistick/logistick/service-details.html"
+                                                class="nav-submenu__link hover-bg-neutral-100 text-black fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">Service
+                                                Details</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="nav-menu__item">
+                                    <a href="https://wowtheme7.com/tf/logistick/logistick/about.html"
+                                        class="nav-menu__link hover--translate-y-1 text-main-two-600 tw-py-9 fw-medium w-100">About</a>
+                                </li>
+                                <li class="nav-menu__item has-submenu position-relative">
+                                    <a href="javascript:void(0)"
+                                        class="nav-menu__link hover--translate-y-1 text-main-two-600 tw-py-9 fw-medium w-100 tw-pe-4">News</a>
+                                    <ul
+                                        class="nav-submenu scroll-sm position-absolute start-0 top-100 tw-w-max bg-white tw-rounded-md overflow-hidden tw-p-2 tw-mt-4 tw-duration-200 tw-z-99">
+                                        <li
+                                            class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                                            <a href="https://wowtheme7.com/tf/logistick/logistick/blog.html"
+                                                class="nav-submenu__link hover-bg-neutral-100 text-black fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                                                News</a>
+                                        </li>
+                                        <li
+                                            class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                                            <a href="https://wowtheme7.com/tf/logistick/logistick/blog-details.html"
+                                                class="nav-submenu__link hover-bg-neutral-100 text-black fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                                                News Details</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="nav-menu__item">
+                                    <a href="https://wowtheme7.com/tf/logistick/logistick/contact.html"
+                                        class="nav-menu__link hover--translate-y-1 text-main-two-600 tw-py-9 fw-medium w-100">Contact</a>
+                                </li>
+                            </ul>
+                            <!-- Nav menu End  -->
+
+                        </div>
+                        <!-- Menu End  -->
+                    </div>
+
+                    <!-- Header Right start -->
+                    <div class="d-flex gap-xxl-5 gap-3">
+                        <div class="d-flex align-items-center tw-gap-36-px flex-shrink-0">
+                            <!-- Language Start -->
+                            <div class="cursor-small position-relative group-item hover-mt-0 xs-d-block d-none">
+                                <div class="d-flex align-items-center tw-gap-2">
+                                    <a href="javascript:void(0)"
+                                        class="selected-text text-white py-lg-4 d-flex align-items-center gap-2">
+                                        <span
+                                            class="tw-w-25-px tw-h-25-px border border-white border-2 rounded-circle common-shadow d-flex justify-content-center align-items-center">
+                                            <img src="assets/images/flag1.png" alt=""
+                                                class="w-100 h-100 object-fit-cover rounded-circle">
+                                        </span>
+                                        English
+                                    </a>
+                                    <span class="text-white">
+                                        <i class="ph-bold ph-caret-down"></i>
+                                    </span>
+                                </div>
+                                <ul
+                                    class="lang-dropdown tw-max-h-300-px overflow-y-auto scroll-sm bg-white common-shadow tw-px-4 tw-py-3 position-absolute tw-end-0 top-100 min-w-max tw-rounded-lg d-flex flex-column tw-gap-3 tw-invisible opacity-0 group-hover-item-visible group-hover-item-opacity-1 tw-duration-200 group-hover-item-mt-0 tw-mt-4 tw-z-99">
+                                    <li>
+                                        <a href="javascript:void(0)"
+                                            class="text-black d-flex align-items-center gap-2 hover-text-main-600 active--translate-y-1 tw-duration-150">
+                                            <span
+                                                class="tw-w-25-px tw-h-25-px border border-white border-2 rounded-circle d-flex justify-content-center align-items-center">
+                                                <img src="assets/images/flag1.png" alt=""
+                                                    class="w-100 h-100 object-fit-cover rounded-circle">
+                                            </span>
+                                            English
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="javascript:void(0)"
+                                            class="text-black d-flex align-items-center gap-2 hover-text-main-600 active--translate-y-1 tw-duration-150">
+                                            <span
+                                                class="tw-w-25-px tw-h-25-px border border-white border-2 rounded-circle d-flex justify-content-center align-items-center">
+                                                <img src="assets/images/flag2.png" alt=""
+                                                    class="w-100 h-100 object-fit-cover rounded-circle">
+                                            </span>
+                                            Japan
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="javascript:void(0)"
+                                            class="text-black d-flex align-items-center gap-2 hover-text-main-600 active--translate-y-1 tw-duration-150">
+                                            <span
+                                                class="tw-w-25-px tw-h-25-px border border-white border-2 rounded-circle d-flex justify-content-center align-items-center">
+                                                <img src="assets/images/flag3.png" alt=""
+                                                    class="w-100 h-100 object-fit-cover rounded-circle">
+                                            </span>
+                                            French
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="javascript:void(0)"
+                                            class="text-black d-flex align-items-center gap-2 hover-text-main-600 active--translate-y-1 tw-duration-150">
+                                            <span
+                                                class="tw-w-25-px tw-h-25-px border border-white border-2 rounded-circle d-flex justify-content-center align-items-center">
+                                                <img src="assets/images/flag4.png" alt=""
+                                                    class="w-100 h-100 object-fit-cover rounded-circle">
+                                            </span>
+                                            Germany
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="javascript:void(0)"
+                                            class="text-black d-flex align-items-center gap-2 hover-text-main-600 active--translate-y-1 tw-duration-150">
+                                            <span
+                                                class="tw-w-25-px tw-h-25-px border border-white border-2 rounded-circle d-flex justify-content-center align-items-center">
+                                                <img src="assets/images/flag6.png" alt=""
+                                                    class="w-100 h-100 object-fit-cover rounded-circle">
+                                            </span>
+                                            Bangladesh
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="javascript:void(0)"
+                                            class="text-black d-flex align-items-center gap-2 hover-text-main-600 active--translate-y-1 tw-duration-150">
+                                            <span
+                                                class="tw-w-25-px tw-h-25-px border border-white border-2 rounded-circle d-flex justify-content-center align-items-center">
+                                                <img src="assets/images/flag5.png" alt=""
+                                                    class="w-100 h-100 object-fit-cover rounded-circle">
+                                            </span>
+                                            Sought Kores
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <!-- Language End -->
+
+                        </div>
+
+                        <button type="button" class="toggle-mobileMenu leading-none d-lg-none text-white tw-text-9">
+                            <i class="ph ph-list"></i>
+                        </button>
+                    </div>
+
+                    <!-- Header Right End  -->
+                </nav>
+            </div>
+        </header>
+        <!-- ==================== Header End Here ==================== -->
+    </div>
+
+    <!-- ================================== Banner Three Section start ============================= -->
+    <section class="banner-three bg-img overflow-hidden position-relative z-1"
+        data-background-image="assets/images/thumbs/banner-three-img.png"
+        style="background: url(&quot;assets/images/thumbs/banner-three-img.png&quot;);">
+        <img src="assets/images/only-track.png" alt=""
+            class="only-track position-absolute  tw-start-0 bottom-0 max-w-64-percent tw-z-2"
+            style="translate: none; rotate: none; scale: none; transform: translate3d(-227.395px, 0px, 0px);">
+        <img src="assets/images/curve-road.png" alt=""
+            class="curve-road position-absolute tw-end-0 bottom-0 tw-mb-142-px">
+        <img src="assets/images/banner--three-plane.png" alt=""
+            class="banner-three-plane position-absolute tw-end-0 top-0 tw-mt-254-px"
+            style="translate: none; rotate: none; scale: none; transform: translate(80px) scale(0.6);">
+
+
+        <div data-aos="zoom-in" data-aos-duration="1500" class="aos-init aos-animate">
+
+        </div>
+
+        <div class="container">
+            <div class="row gy-4 justify-content-end">
+                <div class="col-lg-7 position-relative z-2">
+                    <span
+                        class="splitTextStyleTwo cursor-small text-white fw-bold fst-italic tw-text-lg text-decoration-underline tw-mb-5">Safe
+                        Transportation &amp; Logistics</span>
+                    <h1 class="splitTextStyleOne cursor-big text-white tw-text-80-px">
+                        <div style="position:relative;display:inline-block;">
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                F</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                l</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                e</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                x</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                i</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                b</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                l</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                e</div>
+                        </div>
+                        <div style="position:relative;display:inline-block;">
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                l</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                o</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                g</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                i</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                s</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                t</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                i</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                c</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                s</div>
+                        </div>
+                        <div style="position:relative;display:inline-block;">
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                F</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                a</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                s</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                t</div>
+                        </div>
+                        <div style="position:relative;display:inline-block;">
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                D</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                e</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                l</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                i</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                v</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                e</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                r</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                y</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                ,</div>
+                        </div>
+                        <div style="position:relative;display:inline-block;">
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                &amp;</div>
+                        </div>
+                        <div style="position:relative;display:inline-block;">
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                s</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                e</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                c</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                u</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                r</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                e</div>
+                        </div>
+                        <div style="position:relative;display:inline-block;">
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                p</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                a</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                c</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                k</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                a</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                g</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                e</div>
+                        </div>
+                    </h1>
+
+                    <div class="d-flex tw-gap-11 tw-mt-13 flex-wrap">
+                        <a href="https://wowtheme7.com/tf/logistick/logistick/service.html"
+                            class="cursor-small btn btn-main hover-style-two button--stroke d-inline-flex align-items-center justify-content-center tw-gap-5 group active--translate-y-2"
+                            data-block="button">
+                            <span class="button__flair"
+                                style="translate: none; rotate: none; scale: none; transform: translate(-20%, 34.0278%) scale(0);"></span>
+                            <span class="button__label">View services</span>
+                            <span
+                                class="tw-w-7 tw-h-7 bg-white text-main-600 tw-text-sm tw-rounded d-flex justify-content-center align-items-center position-relative group-hover-bg-main-600 group-hover-text-white tw-duration-500">
+                                <i class="ph-bold ph-check"></i>
+                            </span>
+                        </a>
+                        <a href="https://wowtheme7.com/tf/logistick/logistick/about.html"
+                            class="cursor-small d-inline-flex align-items-center tw-gap-2 text-white fw-semibold hover-text-main-600 group active--translate-y-2 aos-init aos-animate"
+                            data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400">
+                            Who we are
+                            <span class="text-main-600 d-flex group-hover-text-white tw-duration-200 tw-text-base">
+                                <i class="ph-fill ph-caret-circle-right"></i>
+                            </span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ================================== Banner Three Section End ============================= -->
+
+    <!-- ========================= brand Three Start ============================= -->
+    <div class="brand-three-slider-wrapper tw-mt-13">
+        <div class="container">
+            <div class="brand-three-slider swiper swiper-initialized swiper-horizontal swiper-backface-hidden">
+                <div class="swiper-wrapper align-items-center"
+                    style="cursor: grab; transition-duration: 1500ms; transform: translate3d(-259.2px, 0px, 0px);"
+                    id="swiper-wrapper-a5660ef10da34bf75" aria-live="off">
+
+                    <div class="swiper-slide me-0 aos-init swiper-slide-prev" data-aos="fade-up"
+                        data-aos-duration="1000" data-aos-delay="100" style="width: 259.2px;" role="group"
+                        aria-label="1 / 6" data-swiper-slide-index="0">
+                        <div class="text-center cursor-big">
+                            <img src="assets/images/brand-three-img1.png" alt="" class="max-w-175-px">
+                        </div>
+                    </div>
+                    <div class="swiper-slide me-0 aos-init swiper-slide-active" data-aos="fade-up"
+                        data-aos-duration="1000" data-aos-delay="200" style="width: 259.2px;" role="group"
+                        aria-label="2 / 6" data-swiper-slide-index="1">
+                        <div class="text-center cursor-big">
+                            <img src="assets/images/brand-three-img2.png" alt="" class="max-w-175-px">
+                        </div>
+                    </div>
+                    <div class="swiper-slide me-0 aos-init swiper-slide-next" data-aos="fade-up"
+                        data-aos-duration="1000" data-aos-delay="300" style="width: 259.2px;" role="group"
+                        aria-label="3 / 6" data-swiper-slide-index="2">
+                        <div class="text-center cursor-big">
+                            <img src="assets/images/brand-three-img3.png" alt="" class="max-w-175-px">
+                        </div>
+                    </div>
+                    <div class="swiper-slide me-0 aos-init" data-aos="fade-up" data-aos-duration="1000"
+                        data-aos-delay="400" style="width: 259.2px;" role="group" aria-label="4 / 6"
+                        data-swiper-slide-index="3">
+                        <div class="text-center cursor-big">
+                            <img src="assets/images/brand-three-img4.png" alt="" class="max-w-175-px">
+                        </div>
+                    </div>
+                    <div class="swiper-slide me-0 aos-init" data-aos="fade-up" data-aos-duration="1000"
+                        data-aos-delay="500" style="width: 259.2px;" role="group" aria-label="5 / 6"
+                        data-swiper-slide-index="4">
+                        <div class="text-center cursor-big">
+                            <img src="assets/images/brand-three-img5.png" alt="" class="max-w-175-px">
+                        </div>
+                    </div>
+                    <div class="swiper-slide me-0 aos-init" data-aos="fade-up" data-aos-duration="1000"
+                        data-aos-delay="600" style="width: 259.2px;" role="group" aria-label="6 / 6"
+                        data-swiper-slide-index="5">
+                        <div class="text-center cursor-big">
+                            <img src="assets/images/brand-two-img6.png" alt="" class="max-w-175-px">
+                        </div>
+                    </div>
+                </div>
+                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+            </div>
+        </div>
+    </div>
+    <!-- ========================= brand Three End ============================= -->
+
+    <div class="position-relative z-1">
+        <img src="assets/images/thrree-sections-bg.png" alt=""
+            class="position-absolute bottom-0 tw-start-0 w-100 tw-mb-128-px z-n1 tw-h-60-percent object-fit-cover">
+        <img src="assets/images/moon-shape.png" alt=""
+            class="moon-shape position-absolute top-50 tw-start-0 z-n1 tw-mb-17"
+            style="translate: none; rotate: none; scale: none; transform: translate(0px, -280px);">
+
+        <!-- ============================= Service Three section start =================================== -->
+        <section class="service-three pt-140 overflow-hidden">
+            <div class="container">
+                <div class="max-w-856-px mx-auto text-center tw-pb-16 tw-mb-6">
+                    <span
+                        class="splitTextStyleTwo cursor-small tw-text-xl fw-bold fst-italic text-decoration-underline text-main-600 tw-mb-305">Safe
+                        Transportation &amp; Logistics</span>
+                    <h1 class="splitTextStyleOne cursor-big">
+                        <?php foreach (explode(" ", $s["title"] ?? "title goes here") as $word): ?>
+                            <div style="position:relative;display:inline-block;">
+                                <?php foreach (str_split($word) as $letter): ?>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        <?= $letter ?>
+                                    </div>
+                                <?php endforeach; ?>
+                            </div>
+                        <?php endforeach; ?>
+                    </h1>
+                </div>
+
+                <div class="position-relative">
+                    <div
+                        class="service-three-slider swiper swiper-initialized swiper-horizontal swiper-backface-hidden">
+                        <div class="swiper-wrapper"
+                            style="cursor: grab; transition-duration: 1500ms; transform: translate3d(-442px, 0px, 0px);"
+                            id="swiper-wrapper-578892aafc2401059" aria-live="off">
+
+                            <div class="swiper-slide aos-init swiper-slide-prev" data-aos="fade-up"
+                                data-aos-duration="1000" data-aos-delay="100" style="width: 412px; margin-right: 30px;"
+                                role="group" aria-label="1 / 4" data-swiper-slide-index="0">
+                                <div class="service-three-item tw-pb-13 overflow-hidden position-relative group">
+                                    <a href="https://wowtheme7.com/tf/logistick/logistick/service-details.html"
+                                        class="triangle-before position-relative w-100 h-100 p-2 bg-white overflow-hidden">
+                                        <img src="assets/images/service-three-img1.png" alt=""
+                                            class="w-100 h-100 object-fit-cover">
+                                    </a>
+                                    <div
+                                        class="service-three-item__content tw-duration-500 tw-ps-4 position-absolute bottom-0 tw-start-0 tw-end-0 w-100">
+                                        <div
+                                            class="bg-white triangle-two-before position-relative z-1 border-bottom border-main-600 common-shadow-five two tw-py-405 tw-mx-32-px d-flex align-items-start tw-gap-405 tw-pe-6">
+                                            <span
+                                                class="tw-h-85-px tw-w-85-px bg-main-600 tw-rounded d-flex justify-content-center align-items-center tw--ms-16-px cursor-big flex-shrink-0 group-hover-bg-main-two-600 tw-duration-500">
+                                                <img src="assets/images/service-three-icon1.svg" alt="">
+                                            </span>
+                                            <div class="tw-py-605 flex-grow-1">
+                                                <h6 class="tw-mb-8 cursor-big tw-text-lg">
+                                                    <a href="https://wowtheme7.com/tf/logistick/logistick/service-details.html"
+                                                        class="line-clamp-2 hover-text-main-600">Air Transportation </a>
+                                                </h6>
+                                                <p class="text-neutral-1000 cursor-small line-clamp-3">Find information
+                                                    for people with disabilities and their families</p>
+                                                <a href="https://wowtheme7.com/tf/logistick/logistick/service-details.html"
+                                                    class="cursor-big d-flex align-items-center tw-gap-3 text-main-two-600 fw-semibold tw-mt-4 hover-text-main-600">
+                                                    Explore More
+                                                    <span class=""><img src="assets/images/arrow-long.svg"
+                                                            alt=""></span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide aos-init swiper-slide-active" data-aos="fade-up"
+                                data-aos-duration="1000" data-aos-delay="200" style="width: 412px; margin-right: 30px;"
+                                role="group" aria-label="2 / 4" data-swiper-slide-index="1">
+                                <div class="service-three-item tw-pb-13 overflow-hidden position-relative group">
+                                    <a href="https://wowtheme7.com/tf/logistick/logistick/service-details.html"
+                                        class="triangle-before position-relative w-100 h-100 p-2 bg-white overflow-hidden">
+                                        <img src="assets/images/service-three-img2.png" alt=""
+                                            class="w-100 h-100 object-fit-cover">
+                                    </a>
+                                    <div
+                                        class="service-three-item__content tw-duration-500 tw-ps-4 position-absolute bottom-0 tw-start-0 tw-end-0 w-100">
+                                        <div
+                                            class="bg-white triangle-two-before position-relative z-1 border-bottom border-main-600 common-shadow-five two tw-py-405 tw-mx-32-px d-flex align-items-start tw-gap-405 tw-pe-6">
+                                            <span
+                                                class="tw-h-85-px tw-w-85-px bg-main-600 tw-rounded d-flex justify-content-center align-items-center tw--ms-16-px cursor-big flex-shrink-0 group-hover-bg-main-two-600 tw-duration-500">
+                                                <img src="assets/images/service-three-icon2.svg" alt="">
+                                            </span>
+                                            <div class="tw-py-605 flex-grow-1">
+                                                <h6 class="tw-mb-8 cursor-big tw-text-lg">
+                                                    <a href="https://wowtheme7.com/tf/logistick/logistick/service-details.html"
+                                                        class="line-clamp-2 hover-text-main-600">Train Transportation
+                                                    </a>
+                                                </h6>
+                                                <p class="text-neutral-1000 cursor-small line-clamp-3">Find information
+                                                    for people with disabilities and their families</p>
+                                                <a href="https://wowtheme7.com/tf/logistick/logistick/service-details.html"
+                                                    class="cursor-big d-flex align-items-center tw-gap-3 text-main-two-600 fw-semibold tw-mt-4 hover-text-main-600">
+                                                    Explore More
+                                                    <span class=""><img src="assets/images/arrow-long.svg"
+                                                            alt=""></span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide aos-init swiper-slide-next" data-aos="fade-up"
+                                data-aos-duration="1000" data-aos-delay="300" style="width: 412px; margin-right: 30px;"
+                                role="group" aria-label="3 / 4" data-swiper-slide-index="2">
+                                <div class="service-three-item tw-pb-13 overflow-hidden position-relative group">
+                                    <a href="https://wowtheme7.com/tf/logistick/logistick/service-details.html"
+                                        class="triangle-before position-relative w-100 h-100 p-2 bg-white overflow-hidden">
+                                        <img src="assets/images/service-three-img3.png" alt=""
+                                            class="w-100 h-100 object-fit-cover">
+                                    </a>
+                                    <div
+                                        class="service-three-item__content tw-duration-500 tw-ps-4 position-absolute bottom-0 tw-start-0 tw-end-0 w-100">
+                                        <div
+                                            class="bg-white triangle-two-before position-relative z-1 border-bottom border-main-600 common-shadow-five two tw-py-405 tw-mx-32-px d-flex align-items-start tw-gap-405 tw-pe-6">
+                                            <span
+                                                class="tw-h-85-px tw-w-85-px bg-main-600 tw-rounded d-flex justify-content-center align-items-center tw--ms-16-px cursor-big flex-shrink-0 group-hover-bg-main-two-600 tw-duration-500">
+                                                <img src="assets/images/service-three-icon3.svg" alt="">
+                                            </span>
+                                            <div class="tw-py-605 flex-grow-1">
+                                                <h6 class="tw-mb-8 cursor-big tw-text-lg">
+                                                    <a href="https://wowtheme7.com/tf/logistick/logistick/service-details.html"
+                                                        class="line-clamp-2 hover-text-main-600">Cargo
+                                                        transportation</a>
+                                                </h6>
+                                                <p class="text-neutral-1000 cursor-small line-clamp-3">Find information
+                                                    for people with disabilities and their families</p>
+                                                <a href="https://wowtheme7.com/tf/logistick/logistick/service-details.html"
+                                                    class="cursor-big d-flex align-items-center tw-gap-3 text-main-two-600 fw-semibold tw-mt-4 hover-text-main-600">
+                                                    Explore More
+                                                    <span class=""><img src="assets/images/arrow-long.svg"
+                                                            alt=""></span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide aos-init" data-aos="fade-up" data-aos-duration="1000"
+                                data-aos-delay="400" style="width: 412px; margin-right: 30px;" role="group"
+                                aria-label="4 / 4" data-swiper-slide-index="3">
+                                <div class="service-three-item tw-pb-13 overflow-hidden position-relative group">
+                                    <a href="https://wowtheme7.com/tf/logistick/logistick/service-details.html"
+                                        class="triangle-before position-relative w-100 h-100 p-2 bg-white overflow-hidden">
+                                        <img src="assets/images/service-three-img2.png" alt=""
+                                            class="w-100 h-100 object-fit-cover">
+                                    </a>
+                                    <div
+                                        class="service-three-item__content tw-duration-500 tw-ps-4 position-absolute bottom-0 tw-start-0 tw-end-0 w-100">
+                                        <div
+                                            class="bg-white triangle-two-before position-relative z-1 border-bottom border-main-600 common-shadow-five two tw-py-405 tw-mx-32-px d-flex align-items-start tw-gap-405 tw-pe-6">
+                                            <span
+                                                class="tw-h-85-px tw-w-85-px bg-main-600 tw-rounded d-flex justify-content-center align-items-center tw--ms-16-px cursor-big flex-shrink-0 group-hover-bg-main-two-600 tw-duration-500">
+                                                <img src="assets/images/service-three-icon2.svg" alt="">
+                                            </span>
+                                            <div class="tw-py-605 flex-grow-1">
+                                                <h6 class="tw-mb-8 cursor-big tw-text-lg">
+                                                    <a href="https://wowtheme7.com/tf/logistick/logistick/service-details.html"
+                                                        class="line-clamp-2 hover-text-main-600">Train Transportation
+                                                    </a>
+                                                </h6>
+                                                <p class="text-neutral-1000 cursor-small line-clamp-3">Find information
+                                                    for people with disabilities and their families</p>
+                                                <a href="https://wowtheme7.com/tf/logistick/logistick/service-details.html"
+                                                    class="cursor-big d-flex align-items-center tw-gap-3 text-main-two-600 fw-semibold tw-mt-4 hover-text-main-600">
+                                                    Explore More
+                                                    <span class=""><img src="assets/images/arrow-long.svg"
+                                                            alt=""></span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+                    </div>
+                    <div class="cursor-big service-three-button-prev tw-w-14 tw-h-14 rounded-circle tw-text-xl text-white bg-main-600 tw-mt-705 hover-bg-main-600 d-flex justify-content-center align-items-center tw-duration-300 position-absolute top-50 tw--translate-y-50 tw-end-full tw-me-8"
+                        tabindex="0" role="button" aria-label="Previous slide"
+                        aria-controls="swiper-wrapper-578892aafc2401059">
+                        <i class="ph ph-arrow-left"></i>
+                    </div>
+                    <div class="cursor-big service-three-button-next tw-w-14 tw-h-14 rounded-circle tw-text-xl text-white bg-main-600 tw-mt-705 hover-bg-main-600 d-flex justify-content-center align-items-center tw-duration-300 position-absolute top-50 tw--translate-y-50 tw-start-full tw-ms-8"
+                        tabindex="0" role="button" aria-label="Next slide"
+                        aria-controls="swiper-wrapper-578892aafc2401059">
+                        <i class="ph ph-arrow-right"></i>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+        <!-- ============================= Service Three section End =================================== -->
+
+        <!-- =========================== About Three Section start =============================== -->
+        <section class="py-140">
+            <div class="container">
+                <div class="row gy-4">
+                    <div class="col-lg-5">
+                        <div class="tw-pe-9 tw-pb-6 tw-ps-5 position-relative h-100 tw-min-h-500-px">
+                            <img src="assets/images/about-three-img1.png" alt=""
+                                class="tw-rounded w-100 h-100 object-fit-cover">
+                        </div>
+                    </div>
+                    <div class="col-lg-7 ps-lg-5">
+                        <div class="">
+                            <span
+                                class="splitTextStyleTwo cursor-small tw-text-xl fw-bold fst-italic text-decoration-underline text-main-600 tw-mb-305">Safe
+                                Transportation &amp; Logistics</span>
+                            <h1 class="splitTextStyleOne cursor-big tw-mb-8">
+                                <div style="position:relative;display:inline-block;">
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        M</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        o</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        d</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        e</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        r</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        n</div>
+                                </div>
+                                <div style="position:relative;display:inline-block;">
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        t</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        r</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        a</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        n</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        s</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        p</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        o</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        r</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        t</div>
+                                </div>
+                                <div style="position:relative;display:inline-block;">
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        s</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        y</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        s</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        t</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        e</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        m</div>
+                                </div>
+                                <div style="position:relative;display:inline-block;">
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        &amp;</div>
+                                </div>
+                                <div style="position:relative;display:inline-block;">
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        s</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        e</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        c</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        u</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        r</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        e</div>
+                                </div>
+                                <div style="position:relative;display:inline-block;">
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        p</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        a</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        c</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        k</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        a</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        g</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        i</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        n</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        g</div>
+                                </div>
+                            </h1>
+
+                            <div class="tw-mt-7">
+                                <div class="gy-4">
+                                    <div class="animation-item d-flex align-items-center tw-gap-4 aos-init"
+                                        data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
+                                        <span
+                                            class="before-circle position-relative z-1 cursor-big animate__heartBeat tw-pb-7 tw-pe-4 flex-shrink-0">
+                                            <img src="assets/images/features-icon1.svg" alt="">
+                                        </span>
+                                        <div class="">
+                                            <h6 class="cursor-big splitTextStyleTwo">Air Freight Transportation</h6>
+                                            <p class="cursor-small text-neutral-1000 tw-mt-3 line-clamp-2">Raising
+                                                awareness about the charity's mission and cause.</p>
+                                        </div>
+                                    </div>
+                                    <span class="tw-my-7 border-bottom border-neutral-200 d-block"></span>
+                                    <div class="animation-item d-flex align-items-center tw-gap-4 aos-init"
+                                        data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
+                                        <span
+                                            class="before-circle position-relative z-1 cursor-big animate__heartBeat tw-pb-7 tw-pe-4 flex-shrink-0">
+                                            <img src="assets/images/features-icon3.svg" alt="">
+                                        </span>
+                                        <div class="">
+                                            <h6 class="cursor-big splitTextStyleTwo">Cargo Transportation</h6>
+                                            <p class="cursor-small text-neutral-1000 tw-mt-3 line-clamp-2">Raising
+                                                awareness about the charity's mission and cause.</p>
+                                        </div>
+                                    </div>
+                                    <div class="tw-mt-9">
+                                        <ul class="cursor-small d-flex flex-column tw-gap-4">
+                                            <li class="d-flex align-items-center tw-gap-4 aos-init" data-aos="fade-up"
+                                                data-aos-duration="1000" data-aos-delay="200">
+                                                <span class="text-main-600 d-flex tw-text-xl"><i
+                                                        class="ph-fill ph-check-circle"></i></span>
+                                                <span class="text-neutral-1000 fw-medium">We approached WiaTech with
+                                                    complex project deliver</span>
+                                            </li>
+                                            <li class="d-flex align-items-center tw-gap-4 aos-init" data-aos="fade-up"
+                                                data-aos-duration="1000" data-aos-delay="400">
+                                                <span class="text-main-600 d-flex tw-text-xl"><i
+                                                        class="ph-fill ph-check-circle"></i></span>
+                                                <span class="text-neutral-1000 fw-medium">Awards Winning IT
+                                                    Solutions Company</span>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- =========================== About Three Section End =============================== -->
+
+    </div>
+
+    <!-- ============================== How it work three section start ================================ -->
+    <section class="how-it-work-three py-140">
+        <div class="container">
+            <div class="max-w-856-px mx-auto text-center tw-pb-16">
+                <span
+                    class="splitTextStyleTwo cursor-small tw-text-xl fw-bold fst-italic text-decoration-underline text-main-600 tw-mb-305">Safe
+                    Transportation &amp; Logistics</span>
+                <h2 class="splitTextStyleOne cursor-big h1">
+                    <div style="position:relative;display:inline-block;">
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            I</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            n</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            t</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            r</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            o</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            d</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            u</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            c</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            i</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            n</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            g</div>
+                    </div>
+                    <div style="position:relative;display:inline-block;">
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            T</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            h</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            e</div>
+                    </div>
+                    <div style="position:relative;display:inline-block;">
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            m</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            o</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            s</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            t</div>
+                    </div>
+                    <div style="position:relative;display:inline-block;">
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            M</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            o</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            d</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            e</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            r</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            n</div>
+                    </div>
+                    <div style="position:relative;display:inline-block;">
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            w</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            a</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            y</div>
+                    </div>
+                    <div style="position:relative;display:inline-block;">
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            o</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            f</div>
+                    </div>
+                    <div style="position:relative;display:inline-block;">
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            T</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            r</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            a</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            n</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            s</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            p</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            o</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            r</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            t</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            a</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            t</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            i</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            o</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                            n</div>
+                    </div>
+                </h2>
+            </div>
+
+            <div class="how-it-work-item-wrapper">
+                <div class="row gy-4">
+                    <div class="col-lg-3 col-sm-6 aos-init" data-aos="fade-up" data-aos-duration="1000"
+                        data-aos-delay="200">
+                        <div class="transport-way-item transport-card style-two position-relative text-center">
+                            <img src="assets/images/rocket.svg" alt=""
+                                class="rocket position-absolute tw-start-full bottom-0 tw-mb--88-px d-lg-block d-none">
+
+                            <span
+                                class="transport-way-item__icon cursor-big tw-w-95-px tw-h-95-px bg-main-600 rounded-circle tw-rounded-bl-0 d-inline-flex justify-content-center align-items-center tw-transition-all tw-duration-300">
+                                <img src="assets/images/transport-way-icon1.svg" alt="">
+                            </span>
+                            <div
+                                class="transport-way-item__content border border-neutral-50 bg-neutral-50 tw-py-15 tw-px-24-px tw-rounded tw-duration-300">
+                                <h5 class="tw-mb-6 cursor-big line-clamp-1">Select services</h5>
+                                <p class="text-neutral-1000 cursor-small line-clamp-2">Temperate ocean-bass sea chub
+                                    chub treefish eulachon tidewater</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-sm-6 aos-init" data-aos="fade-up" data-aos-duration="1000"
+                        data-aos-delay="300">
+                        <div class="transport-way-item transport-card style-two position-relative text-center">
+                            <img src="assets/images/rocket.svg" alt=""
+                                class="rocket position-absolute tw-start-full bottom-0 tw-mb--88-px d-lg-block d-none">
+
+                            <span
+                                class="transport-way-item__icon cursor-big tw-w-95-px tw-h-95-px bg-main-600 rounded-circle tw-rounded-bl-0 d-inline-flex justify-content-center align-items-center tw-transition-all tw-duration-300">
+                                <img src="assets/images/transport-way-icon2.svg" alt="">
+                            </span>
+                            <div
+                                class="transport-way-item__content border border-neutral-50 bg-neutral-50 tw-py-15 tw-px-24-px tw-rounded tw-duration-300">
+                                <h5 class="tw-mb-6 cursor-big line-clamp-1">Parcel information</h5>
+                                <p class="text-neutral-1000 cursor-small line-clamp-2">Temperate ocean-bass sea chub
+                                    chub treefish eulachon tidewater</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-sm-6 aos-init" data-aos="fade-up" data-aos-duration="1000"
+                        data-aos-delay="400">
+                        <div class="transport-way-item transport-card style-two position-relative text-center">
+                            <img src="assets/images/rocket.svg" alt=""
+                                class="rocket position-absolute tw-start-full bottom-0 tw-mb--88-px d-lg-block d-none">
+
+                            <span
+                                class="transport-way-item__icon cursor-big tw-w-95-px tw-h-95-px bg-main-600 rounded-circle tw-rounded-bl-0 d-inline-flex justify-content-center align-items-center tw-transition-all tw-duration-300">
+                                <img src="assets/images/transport-way-icon3.svg" alt="">
+                            </span>
+                            <div
+                                class="transport-way-item__content border border-neutral-50 bg-neutral-50 tw-py-15 tw-px-24-px tw-rounded tw-duration-300">
+                                <h5 class="tw-mb-6 cursor-big line-clamp-1">Transportation</h5>
+                                <p class="text-neutral-1000 cursor-small line-clamp-2">Temperate ocean-bass sea chub
+                                    chub treefish eulachon tidewater</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-sm-6 aos-init" data-aos="fade-up" data-aos-duration="1000"
+                        data-aos-delay="500">
+                        <div class="transport-way-item transport-card style-two position-relative text-center">
+                            <img src="assets/images/rocket.svg" alt=""
+                                class="rocket position-absolute tw-start-full bottom-0 tw-mb--88-px d-lg-block d-none">
+
+                            <span
+                                class="transport-way-item__icon cursor-big tw-w-95-px tw-h-95-px bg-main-600 rounded-circle tw-rounded-bl-0 d-inline-flex justify-content-center align-items-center tw-transition-all tw-duration-300 bg-main-two-600">
+                                <img src="assets/images/transport-way-icon4.svg" alt="">
+                            </span>
+                            <div
+                                class="transport-way-item__content border bg-neutral-50 tw-py-15 tw-px-24-px tw-rounded tw-duration-300 border-main-two-600">
+                                <h5 class="tw-mb-6 cursor-big line-clamp-1">Delivery Products</h5>
+                                <p class="text-neutral-1000 cursor-small line-clamp-2">Temperate ocean-bass sea chub
+                                    chub treefish eulachon tidewater</p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ============================== How it work three section End ================================ -->
+
+    <div class="position-relative z-1 overflow-hidden">
+        <img src="assets/images/project-three-bg.png" alt=""
+            class="position-absolute bottom-0 tw-start-0 z-n1 w-100 h-75 object-fit-cover">
+
+        <!-- =========================== Quote Three Section Start ================================= -->
+        <section class="quote-three d-lg-flex">
+            <div class="lg-w-60 w-100 pt-60 position-relative z-1">
+                <img src="assets/images/moon-shape.png" alt=""
+                    class="moon-shape position-absolute top-50 tw-start-0 tw-mb-17 d-md-block d-none"
+                    style="translate: none; rotate: none; scale: none; transform: translate(0px, -280px);">
+                <img src="assets/images/banner--three-plane.png" alt=""
+                    class="quote-three-plane position-absolute tw-end-0 top-0 tw-mt-14 d-md-block d-none"
+                    style="translate: none; rotate: none; scale: none; transform: translate(80px) scale(0.2);">
+                <img src="assets/images/quote-three-bg.png" alt=""
+                    class="position-absolute top-0 tw-start-0 w-100 h-100 z-n1">
+
+                <div class="tw-pt-7 tw-pe-130-px max-w-840-px ms-auto">
+                    <div class=" container">
+                        <span
+                            class="splitTextStyleTwo cursor-small tw-text-xl fw-bold fst-italic text-decoration-underline text-main-600 tw-mb-305">Safe
+                            Transportation &amp; Logistics</span>
+                        <h2 class="splitTextStyleOne cursor-big tw-mb-8 text-white">
+                            <div style="position:relative;display:inline-block;">
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    W</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    e</div>
+                            </div>
+                            <div style="position:relative;display:inline-block;">
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    e</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    n</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    s</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    u</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    r</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    e</div>
+                            </div>
+                            <div style="position:relative;display:inline-block;">
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    s</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    a</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    f</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    e</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    t</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    y</div>
+                            </div>
+                            <div style="position:relative;display:inline-block;">
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    s</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    e</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    c</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    u</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    r</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    e</div>
+                            </div>
+                            <div style="position:relative;display:inline-block;">
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    t</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    r</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    a</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    n</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    s</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    p</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    o</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    r</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    t</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    a</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    t</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    i</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    o</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    n</div>
+                            </div>
+                            <div style="position:relative;display:inline-block;">
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    &amp;</div>
+                            </div>
+                            <div style="position:relative;display:inline-block;">
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    d</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    e</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    l</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    i</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    v</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    e</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    r</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    y</div>
+                            </div>
+                        </h2>
+
+                        <div class="bg-white common-shadow-four tw-translate-y-76-px">
+                            <div class="bg-main-600 tw-p-4 text-center">
+                                <h6 class="tw-text-lg text-white cursor-big">Request a quote</h6>
+                            </div>
+                            <form action="#" class="tw-p-48-px">
+                                <div class="row gy-4">
+                                    <div class="col-sm-12">
+                                        <h6 class="tw-text-base cursor-small">Personal information</h6>
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <input type="text"
+                                            class="cursor-small tw-p-4 bg-neutral-50 w-100 border border-neutral-50 focus-border-main-600 focus-outline-0 tw-placeholder-text-main-two-600 focus-tw-placeholder-text-hidden tw-duration-500 tw-placeholder-transition-3 rounded-0"
+                                            placeholder="Full name">
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <input type="email"
+                                            class="cursor-small tw-p-4 bg-neutral-50 w-100 border border-neutral-50 focus-border-main-600 focus-outline-0 tw-placeholder-text-main-two-600 focus-tw-placeholder-text-hidden tw-duration-500 tw-placeholder-transition-3 rounded-0"
+                                            placeholder="Email address">
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <input type="text"
+                                            class="cursor-small tw-p-4 bg-neutral-50 w-100 border border-neutral-50 focus-border-main-600 focus-outline-0 tw-placeholder-text-main-two-600 focus-tw-placeholder-text-hidden tw-duration-500 tw-placeholder-transition-3 rounded-0"
+                                            placeholder="Subject">
+                                    </div>
+                                    <div class="col-sm-12">
+                                        <h6 class="tw-text-base cursor-small">Shipment Data</h6>
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <select
+                                            class="cursor-small tw-p-4 bg-neutral-50 w-100 border border-neutral-50 focus-border-main-600 focus-outline-0 tw-placeholder-text-main-two-600 focus-tw-placeholder-text-hidden tw-duration-500 tw-placeholder-transition-3 rounded-0 form-select shadow-none">
+                                            <option value="" hidden="" selected="selected">Freight Type</option>
+                                            <option value="">Freight Type One</option>
+                                            <option value="">Freight Type Two</option>
+                                            <option value="">Freight Type Three</option>
+                                        </select>
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <input type="email"
+                                            class="cursor-small tw-p-4 bg-neutral-50 w-100 border border-neutral-50 focus-border-main-600 focus-outline-0 tw-placeholder-text-main-two-600 focus-tw-placeholder-text-hidden tw-duration-500 tw-placeholder-transition-3 rounded-0"
+                                            placeholder="City of depture">
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <input type="text"
+                                            class="cursor-small tw-p-4 bg-neutral-50 w-100 border border-neutral-50 focus-border-main-600 focus-outline-0 tw-placeholder-text-main-two-600 focus-tw-placeholder-text-hidden tw-duration-500 tw-placeholder-transition-3 rounded-0"
+                                            placeholder="Delivery City">
+                                    </div>
+                                    <div class="col-sm-3">
+                                        <select
+                                            class="cursor-small tw-p-4 bg-neutral-50 w-100 border border-neutral-50 focus-border-main-600 focus-outline-0 tw-placeholder-text-main-two-600 focus-tw-placeholder-text-hidden tw-duration-500 tw-placeholder-transition-3 rounded-0 form-select shadow-none">
+                                            <option value="" hidden="" selected="selected">Incoterms</option>
+                                            <option value="">Incoterms One</option>
+                                            <option value="">Incoterms Two</option>
+                                            <option value="">Incoterms Three</option>
+                                        </select>
+                                    </div>
+                                    <div class="col-sm-3">
+                                        <input type="text"
+                                            class="cursor-small tw-p-4 bg-neutral-50 w-100 border border-neutral-50 focus-border-main-600 focus-outline-0 tw-placeholder-text-main-two-600 focus-tw-placeholder-text-hidden tw-duration-500 tw-placeholder-transition-3 rounded-0"
+                                            placeholder="Weight">
+                                    </div>
+                                    <div class="col-sm-3">
+                                        <input type="text"
+                                            class="cursor-small tw-p-4 bg-neutral-50 w-100 border border-neutral-50 focus-border-main-600 focus-outline-0 tw-placeholder-text-main-two-600 focus-tw-placeholder-text-hidden tw-duration-500 tw-placeholder-transition-3 rounded-0"
+                                            placeholder="Weight">
+                                    </div>
+                                    <div class="col-sm-3">
+                                        <input type="text"
+                                            class="cursor-small tw-p-4 bg-neutral-50 w-100 border border-neutral-50 focus-border-main-600 focus-outline-0 tw-placeholder-text-main-two-600 focus-tw-placeholder-text-hidden tw-duration-500 tw-placeholder-transition-3 rounded-0"
+                                            placeholder="Weight">
+                                    </div>
+                                    <div class="col-sm-12">
+                                        <div class="d-flex align-items-center tw-gap-6 flex-wrap tw-my-4">
+                                            <div class="form-check common-check cursor-small d-flex tw-gap-205 mb-0">
+                                                <input class="form-check-input border-main-two-600" type="checkbox"
+                                                    value="" id="Fragile">
+                                                <label class="form-check-label tw-text-sm fw-bold"
+                                                    for="Fragile">Fragile</label>
+                                            </div>
+                                            <div class="form-check common-check cursor-small d-flex tw-gap-205 mb-0">
+                                                <input class="form-check-input border-main-two-600" type="checkbox"
+                                                    value="" id="Expressdelivery">
+                                                <label class="form-check-label tw-text-sm fw-bold"
+                                                    for="Expressdelivery">Express delivery</label>
+                                            </div>
+                                            <div class="form-check common-check cursor-small d-flex tw-gap-205 mb-0">
+                                                <input class="form-check-input border-main-two-600" type="checkbox"
+                                                    value="" id="Insurance">
+                                                <label class="form-check-label tw-text-sm fw-bold"
+                                                    for="Insurance">Insurance</label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12">
+                                        <button type="submit"
+                                            class="cursor-small btn btn-main-two hover-style-three button--stroke d-inline-flex align-items-center justify-content-center tw-gap-5 group active--translate-y-2 rounded-0 tw-px-4 tw-py-505 w-100 tw-h-15"
+                                            data-block="button">
+                                            <span class="button__flair"
+                                                style="translate: none; rotate: none; scale: none;"></span>
+                                            <span class="button__label">Request For a Quote</span>
+                                        </button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="lg-w-45 w-100 position-relative tw-max-h-778-p">
+                <img src="assets/images/quote-three-img.png" alt="" class="w-100 h-100 object-fit-cover">
+                <a href="https://www.youtube.com/watch?v=MFLVmAE4cqg"
+                    class="play-button bg-light-animation cursor-big tw-w-75-px tw-h-75-px d-inline-flex justify-content-center align-items-center bg-main-600 text-white hover-text-main-two-700 rounded-circle tw-text-xl position-absolute tw-start-50 tw--translate-middle top-50">
+                    <i class="ph-fill ph-play"></i>
+                </a>
+            </div>
+        </section>
+        <!-- =========================== Quote Three Section end ================================= -->
+
+        <!-- ============================== Project Three section start ============================== -->
+        <section class="project py-140">
+            <div class="container">
+                <div class="d-flex align-items-center flex-wrap tw-gap-6 justify-content-between tw-mb-15">
+                    <div class="max-w-632-px text-start">
+                        <span
+                            class="splitTextStyleTwo cursor-small tw-text-xl fw-bold fst-italic text-decoration-underline text-main-600 tw-mb-305">Safe
+                            Transportation &amp; Logistics</span>
+                        <h2 class="splitTextStyleOne cursor-big tw-mb-8">
+                            <div style="position:relative;display:inline-block;">
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    T</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    r</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    a</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    n</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    s</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    p</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    o</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    r</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    t</div>
+                            </div>
+                            <div style="position:relative;display:inline-block;">
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    &amp;</div>
+                            </div>
+                            <div style="position:relative;display:inline-block;">
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    L</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    o</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    g</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    i</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    s</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    t</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    i</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    c</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    s</div>
+                            </div>
+                            <div style="position:relative;display:inline-block;">
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    p</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    r</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    o</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    j</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    e</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    c</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    t</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    s</div>
+                            </div>
+                            <div style="position:relative;display:inline-block;">
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    t</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    h</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    a</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    t</div>
+                            </div>
+                            <div style="position:relative;display:inline-block;">
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    w</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    e</div>
+                            </div>
+                            <div style="position:relative;display:inline-block;">
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    p</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    r</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    o</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    v</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    i</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    d</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    e</div>
+                            </div>
+                        </h2>
+                    </div>
+                    <a href="https://wowtheme7.com/tf/logistick/logistick/service.html"
+                        class="cursor-small btn btn-main hover-style-one button--stroke d-inline-flex align-items-center justify-content-center tw-gap-5 group active--translate-y-2 rounded-0 tw-px-13 tw-py-505"
+                        data-block="button">
+                        <span class="button__flair" style="translate: none; rotate: none; scale: none;"></span>
+                        <span class="button__label">View services</span>
+                    </a>
+                </div>
+            </div>
+
+            <div class="container">
+                <div class="view-w-100 position-relative z-1">
+                    <div class="project-slider swiper swiper-initialized swiper-horizontal swiper-backface-hidden">
+                        <div class="swiper-wrapper"
+                            style="cursor: grab; transition-duration: 0ms; transform: translate3d(-378.75px, 0px, 0px); transition-delay: 0ms;"
+                            id="swiper-wrapper-b613453985d910be" aria-live="off">
+
+
+
+
+
+
+
+                            <div class="swiper-slide aos-init swiper-slide-prev" data-aos="fade-up"
+                                data-aos-duration="1000" data-aos-delay="300"
+                                style="width: 348.75px; margin-right: 30px;" role="group" aria-label="3 / 5"
+                                data-swiper-slide-index="2">
+                                <div class="group position-relative tw-pb-12">
+                                    <div class="tw-rounded-xl overflow-hidden">
+                                        <img src="assets/images/project-img3.png" alt=""
+                                            class="w-100 h-100 object-fit-cover hover-scale-2 tw-duration-500">
+                                    </div>
+                                    <div
+                                        class="position-absolute bottom-0 tw-start-50 tw--translate-x-50 w-100 tw-px-6">
+                                        <div
+                                            class="bg-white position-relative z-1 common-shadow-five tw-py-11 tw-px-6 d-flex align-items-center tw-rounded-md tw-gap-4 w-100 group-hover-bg-main-600 tw-duration-500">
+                                            <div class="flex-grow-1">
+                                                <h5 class="cursor-big">
+                                                    <a href="https://wowtheme7.com/tf/logistick/logistick/project-details.html"
+                                                        class="hover-text-main-600 line-clamp-2 splitTextStyleTwo group-hover-text-white tw-duration-300">Sea
+                                                        Transportation</a>
+                                                </h5>
+                                                <span
+                                                    class="text-neutral-1000 cursor-small group-hover-text-white tw-duration-500">Domestic
+                                                    &amp; Transportation</span>
+                                            </div>
+                                            <a href="https://wowtheme7.com/tf/logistick/logistick/project-details.html"
+                                                class="cursor-big btn btn-main p-0 hover-style-one button--stroke tw-w-10 tw-h-10 d-flex justify-content-center align-items-center active--translate-y-2 rounded-circle tw-text-5 flex-shrink-0 group-hover-bg-white group-hover-text-main-600 tw-duration-500 hover-scale-2"
+                                                data-block="button">
+                                                <span class="button__flair"
+                                                    style="translate: none; rotate: none; scale: none;"></span>
+                                                <span class="button__label"><i class="ph ph-arrow-right"></i></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide aos-init swiper-slide-active" data-aos="fade-up"
+                                data-aos-duration="1000" data-aos-delay="400"
+                                style="width: 348.75px; margin-right: 30px;" role="group" aria-label="4 / 5"
+                                data-swiper-slide-index="3">
+                                <div class="group position-relative tw-pb-12">
+                                    <div class="tw-rounded-xl overflow-hidden">
+                                        <img src="assets/images/project-img4.png" alt=""
+                                            class="w-100 h-100 object-fit-cover hover-scale-2 tw-duration-500">
+                                    </div>
+                                    <div
+                                        class="position-absolute bottom-0 tw-start-50 tw--translate-x-50 w-100 tw-px-6">
+                                        <div
+                                            class="bg-white position-relative z-1 common-shadow-five tw-py-11 tw-px-6 d-flex align-items-center tw-rounded-md tw-gap-4 w-100 group-hover-bg-main-600 tw-duration-500">
+                                            <div class="flex-grow-1">
+                                                <h5 class="cursor-big">
+                                                    <a href="https://wowtheme7.com/tf/logistick/logistick/project-details.html"
+                                                        class="hover-text-main-600 line-clamp-2 splitTextStyleTwo group-hover-text-white tw-duration-300">Sea
+                                                        Transportation</a>
+                                                </h5>
+                                                <span
+                                                    class="text-neutral-1000 cursor-small group-hover-text-white tw-duration-500">Domestic
+                                                    &amp; Transportation</span>
+                                            </div>
+                                            <a href="https://wowtheme7.com/tf/logistick/logistick/project-details.html"
+                                                class="cursor-big btn btn-main p-0 hover-style-one button--stroke tw-w-10 tw-h-10 d-flex justify-content-center align-items-center active--translate-y-2 rounded-circle tw-text-5 flex-shrink-0 group-hover-bg-white group-hover-text-main-600 tw-duration-500 hover-scale-2"
+                                                data-block="button">
+                                                <span class="button__flair"
+                                                    style="translate: none; rotate: none; scale: none;"></span>
+                                                <span class="button__label"><i class="ph ph-arrow-right"></i></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide aos-init swiper-slide-next" data-aos="fade-up"
+                                data-aos-duration="1000" data-aos-delay="500"
+                                style="width: 348.75px; margin-right: 30px;" role="group" aria-label="5 / 5"
+                                data-swiper-slide-index="4">
+                                <div class="group position-relative tw-pb-12">
+                                    <div class="tw-rounded-xl overflow-hidden">
+                                        <img src="assets/images/project-img4.png" alt=""
+                                            class="w-100 h-100 object-fit-cover hover-scale-2 tw-duration-500">
+                                    </div>
+                                    <div
+                                        class="position-absolute bottom-0 tw-start-50 tw--translate-x-50 w-100 tw-px-6">
+                                        <div
+                                            class="bg-white position-relative z-1 common-shadow-five tw-py-11 tw-px-6 d-flex align-items-center tw-rounded-md tw-gap-4 w-100 group-hover-bg-main-600 tw-duration-500">
+                                            <div class="flex-grow-1">
+                                                <h5 class="cursor-big">
+                                                    <a href="https://wowtheme7.com/tf/logistick/logistick/project-details.html"
+                                                        class="hover-text-main-600 line-clamp-2 splitTextStyleTwo group-hover-text-white tw-duration-300">Sea
+                                                        Transportation</a>
+                                                </h5>
+                                                <span
+                                                    class="text-neutral-1000 cursor-small group-hover-text-white tw-duration-500">Domestic
+                                                    &amp; Transportation</span>
+                                            </div>
+                                            <a href="https://wowtheme7.com/tf/logistick/logistick/project-details.html"
+                                                class="cursor-big btn btn-main p-0 hover-style-one button--stroke tw-w-10 tw-h-10 d-flex justify-content-center align-items-center active--translate-y-2 rounded-circle tw-text-5 flex-shrink-0 group-hover-bg-white group-hover-text-main-600 tw-duration-500 hover-scale-2"
+                                                data-block="button">
+                                                <span class="button__flair"
+                                                    style="translate: none; rotate: none; scale: none;"></span>
+                                                <span class="button__label"><i class="ph ph-arrow-right"></i></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide aos-init" data-aos="fade-up" data-aos-duration="1000"
+                                data-aos-delay="100" style="width: 348.75px; margin-right: 30px;" role="group"
+                                aria-label="1 / 5" data-swiper-slide-index="0">
+                                <div class="group position-relative tw-pb-12">
+                                    <div class="tw-rounded-xl overflow-hidden">
+                                        <img src="assets/images/project-img1.png" alt=""
+                                            class="w-100 h-100 object-fit-cover hover-scale-2 tw-duration-500">
+                                    </div>
+                                    <div
+                                        class="position-absolute bottom-0 tw-start-50 tw--translate-x-50 w-100 tw-px-6">
+                                        <div
+                                            class="bg-white position-relative z-1 common-shadow-five tw-py-11 tw-px-6 d-flex align-items-center tw-rounded-md tw-gap-4 w-100 group-hover-bg-main-600 tw-duration-500">
+                                            <div class="flex-grow-1">
+                                                <h5 class="cursor-big">
+                                                    <a href="https://wowtheme7.com/tf/logistick/logistick/project-details.html"
+                                                        class="hover-text-main-600 line-clamp-2 splitTextStyleTwo group-hover-text-white tw-duration-300">Sea
+                                                        Transportation</a>
+                                                </h5>
+                                                <span
+                                                    class="text-neutral-1000 cursor-small group-hover-text-white tw-duration-500">Domestic
+                                                    &amp; Transportation</span>
+                                            </div>
+                                            <a href="https://wowtheme7.com/tf/logistick/logistick/project-details.html"
+                                                class="cursor-big btn btn-main p-0 hover-style-one button--stroke tw-w-10 tw-h-10 d-flex justify-content-center align-items-center active--translate-y-2 rounded-circle tw-text-5 flex-shrink-0 group-hover-bg-white group-hover-text-main-600 tw-duration-500 hover-scale-2"
+                                                data-block="button">
+                                                <span class="button__flair"
+                                                    style="translate: none; rotate: none; scale: none;"></span>
+                                                <span class="button__label"><i class="ph ph-arrow-right"></i></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide aos-init" data-aos="fade-up" data-aos-duration="1000"
+                                data-aos-delay="200" style="width: 348.75px; margin-right: 30px;" role="group"
+                                aria-label="2 / 5" data-swiper-slide-index="1">
+                                <div class="group position-relative tw-pb-12">
+                                    <div class="tw-rounded-xl overflow-hidden">
+                                        <img src="assets/images/project-img2.png" alt=""
+                                            class="w-100 h-100 object-fit-cover hover-scale-2 tw-duration-500">
+                                    </div>
+                                    <div
+                                        class="position-absolute bottom-0 tw-start-50 tw--translate-x-50 w-100 tw-px-6">
+                                        <div
+                                            class="bg-white position-relative z-1 common-shadow-five tw-py-11 tw-px-6 d-flex align-items-center tw-rounded-md tw-gap-4 w-100 group-hover-bg-main-600 tw-duration-500">
+                                            <div class="flex-grow-1">
+                                                <h5 class="cursor-big">
+                                                    <a href="https://wowtheme7.com/tf/logistick/logistick/project-details.html"
+                                                        class="hover-text-main-600 line-clamp-2 splitTextStyleTwo group-hover-text-white tw-duration-300">Sea
+                                                        Transportation</a>
+                                                </h5>
+                                                <span
+                                                    class="text-neutral-1000 cursor-small group-hover-text-white tw-duration-500">Domestic
+                                                    &amp; Transportation</span>
+                                            </div>
+                                            <a href="https://wowtheme7.com/tf/logistick/logistick/project-details.html"
+                                                class="cursor-big btn btn-main p-0 hover-style-one button--stroke tw-w-10 tw-h-10 d-flex justify-content-center align-items-center active--translate-y-2 rounded-circle tw-text-5 flex-shrink-0 group-hover-bg-white group-hover-text-main-600 tw-duration-500 hover-scale-2"
+                                                data-block="button">
+                                                <span class="button__flair"
+                                                    style="translate: none; rotate: none; scale: none;"></span>
+                                                <span class="button__label"><i class="ph ph-arrow-right"></i></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- ============================== Project Three section End ============================== -->
+    </div>
+
+
+    <!-- ========================== Contact us three section start ================================= -->
+    <section class="py-140 position-relative overflow-hidden">
+        <img src="assets/images/contact-us-three-plane.png" alt=""
+            class="contact-us-three-plane position-absolute tw-end-0 top-0 tw-mt-254-px"
+            style="translate: none; rotate: none; scale: none; transform: translate(80px) scale(0.2);">
+
+        <div class="container">
+            <div class="row gy-4">
+                <div class="col-lg-7">
+                    <div class="">
+                        <span
+                            class="splitTextStyleTwo cursor-small tw-text-xl fw-bold fst-italic text-decoration-underline text-main-600 tw-mb-305">Safe
+                            Transportation &amp; Logistics</span>
+                        <h1 class="splitTextStyleOne cursor-big tw-mb-8">
+                            <div style="position:relative;display:inline-block;">
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    M</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    o</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    d</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    e</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    r</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    n</div>
+                            </div>
+                            <div style="position:relative;display:inline-block;">
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    t</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    r</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    a</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    n</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    s</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    p</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    o</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    r</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    t</div>
+                            </div>
+                            <div style="position:relative;display:inline-block;">
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    s</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    y</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    s</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    t</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    e</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    m</div>
+                            </div>
+                            <div style="position:relative;display:inline-block;">
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    &amp;</div>
+                            </div>
+                            <div style="position:relative;display:inline-block;">
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    s</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    e</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    c</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    u</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    r</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    e</div>
+                            </div>
+                            <div style="position:relative;display:inline-block;">
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    p</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    a</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    c</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    k</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    a</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    g</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    i</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    n</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                    g</div>
+                            </div>
+                        </h1>
+                        <p class="cursor-small text-neutral-900 tw-ps-205 border-start border-main-600 border-2">
+                            Temperate
+                            ocean-bass sea chub unicorn fish treefish eulachon tidewater goby.
+                            Flier, bighe carp Devario shortnose sucker platy smalleye</p>
+
+                        <div class="d-flex d-flex flex-sm-nowrap flex-wrap tw-mt-10">
+                            <div class="tw-pe-32-px tw-me-32-px border-end border-neutral-200 aos-init"
+                                data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
+                                <div class=" max-w-130-px">
+                                    <img src="assets/images/service-icon1.svg" alt="" class="cursor-big">
+                                    <h6 class="cursor-small tw-text-base tw-mt-4 fw-semibold">Replenishment and picking
+                                    </h6>
+                                </div>
+                            </div>
+                            <div class="tw-pe-32-px tw-me-32-px border-end border-neutral-200 aos-init"
+                                data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300">
+                                <div class=" max-w-130-px">
+                                    <img src="assets/images/service-icon5.svg" alt="" class="cursor-big">
+                                    <h6 class="cursor-small tw-text-base tw-mt-4 fw-semibold">Warehousing operation</h6>
+                                </div>
+                            </div>
+                            <div class="aos-init" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400">
+                                <div class=" max-w-130-px">
+                                    <img src="assets/images/tranport-way-icon33.svg" alt="" class="cursor-big">
+                                    <h6 class="cursor-small tw-text-base tw-mt-4 fw-semibold">Transportation Processing
+                                    </h6>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tw-mt-13 aos-init" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300">
+                            <div class="d-flex align-items-center tw-gap-3">
+                                <span
+                                    class="tw-w-12 tw-h-12 border border-neutral-200 rounded-circle d-flex justify-content-center align-items-center cursor-small">
+                                    <img src="assets/images/message-double.svg" alt="">
+                                </span>
+                                <h5 class="">
+                                    <a href="tel:+1718-904-4450"
+                                        class="text-main-600 fw-bold font-body cursor-big hover-scale-108">+1
+                                        718-904-4450</a>
+                                </h5>
+                            </div>
+                            <p class="tw-text-sm fw-semibold tw-mt-2 cursor-small text-main-two-600">Consult With It
+                                Advisor?
+                                <a href="#"
+                                    class="text-decoration-underline text-main-600 cursor-big hover-scale-108">Click
+                                    Now</a>
+                            </p>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="col-lg-5">
+                    <div class="position-relative">
+                        <a href="https://www.youtube.com/watch?v=MFLVmAE4cqg"
+                            class="play-button bg-light-animation cursor-big tw-w-75-px tw-h-75-px d-inline-flex justify-content-center align-items-center bg-main-600 text-white hover-text-main-two-700 rounded-circle tw-text-xl position-absolute tw-start-50 tw--translate-middle top-50 z-1">
+                            <i class="ph-fill ph-play"></i>
+                        </a>
+                        <div class="row gy-4">
+                            <div class="col-6">
+                                <div class="">
+                                    <img src="assets/images/contact-us-three-img1.png" alt=""
+                                        class="clip-top-left w-100 h-100 object-fit-cover">
+                                </div>
+                            </div>
+                            <div class="col-6">
+                                <div class="">
+                                    <img src="assets/images/contact-us-three-img2.png" alt=""
+                                        class="clip-bottom-right w-100 h-100 object-fit-cover">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ========================== Contact us three section End ================================= -->
+
+
+
+    <div class="position-relative z-1 overflow-hidden">
+        <img src="assets/images/how-it-work-bg.png" alt=""
+            class="position-absolute top-0 tw-start-0 w-100 tw-h-60-percent tw-mt-188-px z-n1">
+        <img src="assets/images/projects-shape-img.png" alt=""
+            class="project-shape-img position-absolute tw-start-0 top-0 z-n1 tw-mt-300-px  z-n1"
+            style="translate: none; rotate: none; scale: none; transform: translate(0px, -360px) scale(0.6);">
+
+        <!-- ================================ Support section start ========================= -->
+        <div class="container aos-init" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="200">
+            <div class="bg-img position-relative" data-background-image="assets/images/thumbs/support-three-bg.png"
+                style="background: url(&quot;assets/images/thumbs/support-three-bg.png&quot;);">
+                <img src="assets/images/support-small-plane.png" alt=""
+                    class="support-small-plane position-absolute tw-start-40 bottom-0 tw-mb-205 tw-ms-4"
+                    style="translate: none; rotate: none; scale: none; transform: translate(80px) scale(0.2);">
+
+                <div class="max-w-548-px tw-py-13 tw-ps-84-px">
+                    <span
+                        class="splitTextStyleTwo cursor-small tw-text-xl fw-bold fst-italic text-decoration-underline text-main-600 tw-mb-305">Safe
+                        Transportation &amp; Logistics</span>
+                    <h3 class="splitTextStyleOne cursor-big tw-mb-5 text-white">
+                        <div style="position:relative;display:inline-block;">
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                W</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                e</div>
+                        </div>
+                        <div style="position:relative;display:inline-block;">
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                e</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                n</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                s</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                u</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                r</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                e</div>
+                        </div>
+                        <div style="position:relative;display:inline-block;">
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                s</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                a</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                f</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                e</div>
+                        </div>
+                        <div style="position:relative;display:inline-block;">
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                t</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                r</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                a</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                n</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                s</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                p</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                o</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                r</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                t</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                a</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                t</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                i</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                o</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                n</div>
+                        </div>
+                        <div style="position:relative;display:inline-block;">
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                &amp;</div>
+                        </div>
+                        <div style="position:relative;display:inline-block;">
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                q</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                u</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                a</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                l</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                i</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                t</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                y</div>
+                        </div>
+                        <div style="position:relative;display:inline-block;">
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                d</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                e</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                l</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                i</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                v</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                e</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                r</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                y</div>
+                        </div>
+                    </h3>
+                    <a href="https://wowtheme7.com/tf/logistick/logistick/service.html"
+                        class="cursor-small btn btn-main hover-style-two button--stroke d-inline-flex align-items-center justify-content-center tw-gap-5 group active--translate-y-2"
+                        data-block="button">
+                        <span class="button__flair" style="translate: none; rotate: none; scale: none;"></span>
+                        <span class="button__label">View services</span>
+                        <span
+                            class="tw-w-7 tw-h-7 bg-white text-main-600 tw-text-sm tw-rounded d-flex justify-content-center align-items-center position-relative group-hover-bg-main-600 group-hover-text-white tw-duration-500">
+                            <i class="ph-bold ph-check"></i>
+                        </span>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <!-- ================================ Support section End ========================= -->
+
+        <!-- ============================= Pricing Three Section Start =================================== -->
+        <section class="pricing-three py-140">
+            <div class="container">
+                <div class="max-w-856-px mx-auto text-center tw-pb-16">
+                    <span
+                        class="splitTextStyleTwo cursor-small tw-text-xl fw-bold fst-italic text-decoration-underline text-main-600 tw-mb-305">Safe
+                        Transportation &amp; Logistics</span>
+                    <h2 class="splitTextStyleOne cursor-big h1">
+                        <div style="position:relative;display:inline-block;">
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                M</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                o</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                d</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                e</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                r</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                n</div>
+                        </div>
+                        <div style="position:relative;display:inline-block;">
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                A</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                f</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                f</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                o</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                r</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                d</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                a</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                b</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                l</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                e</div>
+                        </div>
+                        <div style="position:relative;display:inline-block;">
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                t</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                r</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                a</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                n</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                s</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                p</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                o</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                r</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                t</div>
+                        </div>
+                        <div style="position:relative;display:inline-block;">
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                &amp;</div>
+                        </div>
+                        <div style="position:relative;display:inline-block;">
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                s</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                e</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                c</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                u</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                r</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                e</div>
+                        </div>
+                        <div style="position:relative;display:inline-block;">
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                P</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                r</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                i</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                c</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                i</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                n</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                g</div>
+                        </div>
+                        <div style="position:relative;display:inline-block;">
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                p</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                l</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                a</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                n</div>
+                        </div>
+                    </h2>
+                </div>
+
+                <div class="row gy-4">
+                    <div class="col-xl-4 col-md-6 aos-init" data-aos="fade-up" data-aos-duration="1000"
+                        data-aos-delay="200">
+                        <div
+                            class="bg-white border border-neutral-100 tw-p-36-px tw-rounded-2xl hover-common-shadow-eight tw-duration-300 group">
+                            <div class="overlay-left-to-right position-relative z-1 tw-px-5 tw-py-9 tw-rounded-2xl bg-img"
+                                data-background-image="assets/images/thumbs/pricing-card-img.png"
+                                style="background: url(&quot;assets/images/thumbs/pricing-card-img.png&quot;);">
+                                <h3 class="text-white tw-text-44-px font-heading tw-mb-1 cursor-big">$26.9 <span
+                                        class="tw-text-xl fw-normal">/Monthly</span> </h3>
+                                <span class="text-white fw-normal tw-text-xl cursor-small"> Medium Plan</span>
+                            </div>
+
+                            <ul class="d-flex flex-column tw-gap-5 tw-mt-9 cursor-small">
+                                <li class="d-flex align-items-center tw-gap-6">
+                                    <span
+                                        class="tw-w-405 tw-h-405 bg-neutral-400 text-white d-flex justify-content-center align-items-center rounded-circle tw-text-sm group-hover-bg-main-600 tw-duration-300">
+                                        <i class="ph ph-check"></i>
+                                    </span>
+                                    <span class="text-neutral-1000 group-hover-text-main-two-600 tw-duration-300">Single
+                                        website </span>
+                                </li>
+                                <li class="d-flex align-items-center tw-gap-6">
+                                    <span
+                                        class="tw-w-405 tw-h-405 bg-neutral-400 text-white d-flex justify-content-center align-items-center rounded-circle tw-text-sm group-hover-bg-main-600 tw-duration-300">
+                                        <i class="ph ph-check"></i>
+                                    </span>
+                                    <span
+                                        class="text-neutral-1000 group-hover-text-main-two-600 tw-duration-300">One-click
+                                        WordPress installs</span>
+                                </li>
+                                <li class="d-flex align-items-center tw-gap-6">
+                                    <span
+                                        class="tw-w-405 tw-h-405 bg-neutral-400 text-white d-flex justify-content-center align-items-center rounded-circle tw-text-sm group-hover-bg-main-600 tw-duration-300">
+                                        <i class="ph ph-check"></i>
+                                    </span>
+                                    <span class="text-neutral-1000 group-hover-text-main-two-600 tw-duration-300">Free
+                                        WordPress website transfer </span>
+                                </li>
+                                <li class="d-flex align-items-center tw-gap-6">
+                                    <span
+                                        class="tw-w-405 tw-h-405 bg-neutral-400 text-white d-flex justify-content-center align-items-center rounded-circle tw-text-sm group-hover-bg-main-600 tw-duration-300">
+                                        <i class="ph ph-check"></i>
+                                    </span>
+                                    <span
+                                        class="text-neutral-1000 group-hover-text-main-two-600 tw-duration-300">Unaltered
+                                        bandwidth </span>
+                                </li>
+                                <li class="d-flex align-items-center tw-gap-6">
+                                    <span
+                                        class="tw-w-405 tw-h-405 bg-neutral-400 text-white d-flex justify-content-center align-items-center rounded-circle tw-text-sm group-hover-bg-main-600 tw-duration-300">
+                                        <i class="ph ph-check"></i>
+                                    </span>
+                                    <span class="text-neutral-1000 group-hover-text-main-two-600 tw-duration-300">Free
+                                        SSL certificate </span>
+                                </li>
+                                <li class="d-flex align-items-center tw-gap-6">
+                                    <span
+                                        class="tw-w-405 tw-h-405 bg-neutral-400 text-white d-flex justify-content-center align-items-center rounded-circle tw-text-sm group-hover-bg-main-600 tw-duration-300">
+                                        <i class="ph ph-check"></i>
+                                    </span>
+                                    <span class="text-neutral-1000 group-hover-text-main-two-600 tw-duration-300">Free
+                                        domain included </span>
+                                </li>
+                            </ul>
+
+                            <div class="tw-mt-10">
+                                <a href="https://wowtheme7.com/tf/logistick/logistick/contact.html"
+                                    class="border border-neutral-400 rounded-pill tw-p-4 w-100 text-center text-main-two-600 fw-semibold group-hover-bg-main-600 group-hover-text-white group-hover-border-main-600 hover--translate-y-1 cursor-big">Choose
+                                    Pricing Plan</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-md-6 aos-init" data-aos="fade-up" data-aos-duration="1000"
+                        data-aos-delay="300">
+                        <div
+                            class="bg-white border border-neutral-100 tw-p-36-px tw-rounded-2xl hover-common-shadow-eight tw-duration-300 group">
+                            <div class="overlay-left-to-right position-relative z-1 tw-px-5 tw-py-9 tw-rounded-2xl bg-img"
+                                data-background-image="assets/images/thumbs/pricing-card-img.png"
+                                style="background: url(&quot;assets/images/thumbs/pricing-card-img.png&quot;);">
+                                <h3 class="text-white tw-text-44-px font-heading tw-mb-1 cursor-big">$26.9 <span
+                                        class="tw-text-xl fw-normal">/Monthly</span> </h3>
+                                <span class="text-white fw-normal tw-text-xl cursor-small"> Medium Plan</span>
+                                <span
+                                    class="tw-text-sm fw-medium text-white bg-main-600 tw-px-4 tw-py-2 tw-rounded-md tw-rounded-br-0 tw-rounded-tr-0 position-absolute tw-end-0 tw-mb-9 bottom-0 cursor-small">Offer
+                                    -30%</span>
+                            </div>
+
+                            <ul class="d-flex flex-column tw-gap-5 tw-mt-9 cursor-small">
+                                <li class="d-flex align-items-center tw-gap-6">
+                                    <span
+                                        class="tw-w-405 tw-h-405 bg-neutral-400 text-white d-flex justify-content-center align-items-center rounded-circle tw-text-sm group-hover-bg-main-600 tw-duration-300">
+                                        <i class="ph ph-check"></i>
+                                    </span>
+                                    <span class="text-neutral-1000 group-hover-text-main-two-600 tw-duration-300">Single
+                                        website </span>
+                                </li>
+                                <li class="d-flex align-items-center tw-gap-6">
+                                    <span
+                                        class="tw-w-405 tw-h-405 bg-neutral-400 text-white d-flex justify-content-center align-items-center rounded-circle tw-text-sm group-hover-bg-main-600 tw-duration-300">
+                                        <i class="ph ph-check"></i>
+                                    </span>
+                                    <span
+                                        class="text-neutral-1000 group-hover-text-main-two-600 tw-duration-300">One-click
+                                        WordPress installs</span>
+                                </li>
+                                <li class="d-flex align-items-center tw-gap-6">
+                                    <span
+                                        class="tw-w-405 tw-h-405 bg-neutral-400 text-white d-flex justify-content-center align-items-center rounded-circle tw-text-sm group-hover-bg-main-600 tw-duration-300">
+                                        <i class="ph ph-check"></i>
+                                    </span>
+                                    <span class="text-neutral-1000 group-hover-text-main-two-600 tw-duration-300">Free
+                                        WordPress website transfer </span>
+                                </li>
+                                <li class="d-flex align-items-center tw-gap-6">
+                                    <span
+                                        class="tw-w-405 tw-h-405 bg-neutral-400 text-white d-flex justify-content-center align-items-center rounded-circle tw-text-sm group-hover-bg-main-600 tw-duration-300">
+                                        <i class="ph ph-check"></i>
+                                    </span>
+                                    <span
+                                        class="text-neutral-1000 group-hover-text-main-two-600 tw-duration-300">Unaltered
+                                        bandwidth </span>
+                                </li>
+                                <li class="d-flex align-items-center tw-gap-6">
+                                    <span
+                                        class="tw-w-405 tw-h-405 bg-neutral-400 text-white d-flex justify-content-center align-items-center rounded-circle tw-text-sm group-hover-bg-main-600 tw-duration-300">
+                                        <i class="ph ph-check"></i>
+                                    </span>
+                                    <span class="text-neutral-1000 group-hover-text-main-two-600 tw-duration-300">Free
+                                        SSL certificate </span>
+                                </li>
+                                <li class="d-flex align-items-center tw-gap-6">
+                                    <span
+                                        class="tw-w-405 tw-h-405 bg-neutral-400 text-white d-flex justify-content-center align-items-center rounded-circle tw-text-sm group-hover-bg-main-600 tw-duration-300">
+                                        <i class="ph ph-check"></i>
+                                    </span>
+                                    <span class="text-neutral-1000 group-hover-text-main-two-600 tw-duration-300">Free
+                                        domain included </span>
+                                </li>
+                            </ul>
+
+                            <div class="tw-mt-10">
+                                <a href="https://wowtheme7.com/tf/logistick/logistick/contact.html"
+                                    class="border border-neutral-400 rounded-pill tw-p-4 w-100 text-center text-main-two-600 fw-semibold group-hover-bg-main-600 group-hover-text-white group-hover-border-main-600 hover--translate-y-1 cursor-big">Choose
+                                    Pricing Plan</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-md-6 aos-init" data-aos="fade-up" data-aos-duration="1000"
+                        data-aos-delay="400">
+                        <div
+                            class="bg-white border border-neutral-100 tw-p-36-px tw-rounded-2xl hover-common-shadow-eight tw-duration-300 group">
+                            <div class="overlay-left-to-right position-relative z-1 tw-px-5 tw-py-9 tw-rounded-2xl bg-img"
+                                data-background-image="assets/images/thumbs/pricing-card-img.png"
+                                style="background: url(&quot;assets/images/thumbs/pricing-card-img.png&quot;);">
+                                <h3 class="text-white tw-text-44-px font-heading tw-mb-1 cursor-big">$26.9 <span
+                                        class="tw-text-xl fw-normal">/Monthly</span> </h3>
+                                <span class="text-white fw-normal tw-text-xl cursor-small"> Medium Plan</span>
+                                <span
+                                    class="tw-text-sm fw-medium text-white bg-main-600 tw-px-4 tw-py-2 tw-rounded-md tw-rounded-br-0 tw-rounded-tr-0 position-absolute tw-end-0 tw-mb-9 bottom-0 cursor-small">Offer
+                                    -30%</span>
+                            </div>
+
+                            <ul class="d-flex flex-column tw-gap-5 tw-mt-9 cursor-small">
+                                <li class="d-flex align-items-center tw-gap-6">
+                                    <span
+                                        class="tw-w-405 tw-h-405 bg-neutral-400 text-white d-flex justify-content-center align-items-center rounded-circle tw-text-sm group-hover-bg-main-600 tw-duration-300">
+                                        <i class="ph ph-check"></i>
+                                    </span>
+                                    <span class="text-neutral-1000 group-hover-text-main-two-600 tw-duration-300">Single
+                                        website </span>
+                                </li>
+                                <li class="d-flex align-items-center tw-gap-6">
+                                    <span
+                                        class="tw-w-405 tw-h-405 bg-neutral-400 text-white d-flex justify-content-center align-items-center rounded-circle tw-text-sm group-hover-bg-main-600 tw-duration-300">
+                                        <i class="ph ph-check"></i>
+                                    </span>
+                                    <span
+                                        class="text-neutral-1000 group-hover-text-main-two-600 tw-duration-300">One-click
+                                        WordPress installs</span>
+                                </li>
+                                <li class="d-flex align-items-center tw-gap-6">
+                                    <span
+                                        class="tw-w-405 tw-h-405 bg-neutral-400 text-white d-flex justify-content-center align-items-center rounded-circle tw-text-sm group-hover-bg-main-600 tw-duration-300">
+                                        <i class="ph ph-check"></i>
+                                    </span>
+                                    <span class="text-neutral-1000 group-hover-text-main-two-600 tw-duration-300">Free
+                                        WordPress website transfer </span>
+                                </li>
+                                <li class="d-flex align-items-center tw-gap-6">
+                                    <span
+                                        class="tw-w-405 tw-h-405 bg-neutral-400 text-white d-flex justify-content-center align-items-center rounded-circle tw-text-sm group-hover-bg-main-600 tw-duration-300">
+                                        <i class="ph ph-check"></i>
+                                    </span>
+                                    <span
+                                        class="text-neutral-1000 group-hover-text-main-two-600 tw-duration-300">Unaltered
+                                        bandwidth </span>
+                                </li>
+                                <li class="d-flex align-items-center tw-gap-6">
+                                    <span
+                                        class="tw-w-405 tw-h-405 bg-neutral-400 text-white d-flex justify-content-center align-items-center rounded-circle tw-text-sm group-hover-bg-main-600 tw-duration-300">
+                                        <i class="ph ph-check"></i>
+                                    </span>
+                                    <span class="text-neutral-1000 group-hover-text-main-two-600 tw-duration-300">Free
+                                        SSL certificate </span>
+                                </li>
+                                <li class="d-flex align-items-center tw-gap-6">
+                                    <span
+                                        class="tw-w-405 tw-h-405 bg-neutral-400 text-white d-flex justify-content-center align-items-center rounded-circle tw-text-sm group-hover-bg-main-600 tw-duration-300">
+                                        <i class="ph ph-check"></i>
+                                    </span>
+                                    <span class="text-neutral-1000 group-hover-text-main-two-600 tw-duration-300">Free
+                                        domain included </span>
+                                </li>
+                            </ul>
+
+                            <div class="tw-mt-10">
+                                <a href="https://wowtheme7.com/tf/logistick/logistick/contact.html"
+                                    class="border border-neutral-400 rounded-pill tw-p-4 w-100 text-center text-main-two-600 fw-semibold group-hover-bg-main-600 group-hover-text-white group-hover-border-main-600 hover--translate-y-1 cursor-big">Choose
+                                    Pricing Plan</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- ============================= Pricing Three Section End =================================== -->
+    </div>
+
+    <!-- =============================== Testimonials section three start ========================= -->
+    <section class="bg-neutral-50 py-140 position-relative z-1">
+        <img src="assets/images/pattern-bg-two.png" alt="" class="position-absolute bottom-0 tw-start-0 z-n1 w-100">
+
+        <div class="container">
+
+            <div class="row gy-4">
+                <div class="col-lg-7 pe-lg-5">
+                    <div class="">
+                        <div class="">
+                            <span
+                                class="splitTextStyleTwo cursor-small tw-text-xl fw-bold fst-italic text-decoration-underline text-main-600 tw-mb-305">Safe
+                                Transportation &amp; Logistics</span>
+                            <h1 class="splitTextStyleOne cursor-big tw-mb-8">
+                                <div style="position:relative;display:inline-block;">
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        W</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        h</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        a</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        t</div>
+                                </div>
+                                <div style="position:relative;display:inline-block;">
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        o</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        u</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        r</div>
+                                </div>
+                                <div style="position:relative;display:inline-block;">
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        c</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        l</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        i</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        e</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        n</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        t</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        '</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        s</div>
+                                </div>
+                                <div style="position:relative;display:inline-block;">
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        s</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        a</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        y</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        s</div>
+                                </div>
+                                <div style="position:relative;display:inline-block;">
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        a</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        b</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        o</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        u</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        t</div>
+                                </div>
+                                <div style="position:relative;display:inline-block;">
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        o</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        u</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        r</div>
+                                </div>
+                                <div style="position:relative;display:inline-block;">
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        s</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        e</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        r</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        v</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        i</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        c</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        e</div>
+                                    <div
+                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                        s</div>
+                                </div>
+                            </h1>
+                        </div>
+
+                        <div
+                            class="testimonials-three-content-slider swiper swiper-creative swiper-3d swiper-initialized swiper-horizontal swiper-watch-progress">
+                            <div class="swiper-wrapper" style="cursor: grab;" id="swiper-wrapper-17c4b48fe6f9531f"
+                                aria-live="polite">
+                                <div class="swiper-slide swiper-slide-visible swiper-slide-fully-visible swiper-slide-active"
+                                    style="width: 710px; z-index: 3; transform: translate3d(calc(0px), calc(0px), calc(0px)) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale(1); opacity: 1;"
+                                    role="group" aria-label="1 / 3" data-swiper-slide-index="0">
+                                    <div class="bg-neutral-50">
+                                        <p class="h4 fw-normal tw-leading-18 text-main-two-600 cursor-big">Climb
+                                            the mountain not to plant your flag but to embrace the ways challenge,
+                                            enjoy the air, and behold the. Climb it see the world, not so the world
+                                            can see you. This is due to their excellent service competitive pricing</p>
+                                        <span class="tw-my-10 border-bottom border-neutral-200 d-block"></span>
+
+                                        <div
+                                            class="d-flex align-items-center justify-content-between flex-wrap tw-gap-2">
+                                            <div class="">
+                                                <h5 class="tw-mb-2 cursor-big">Robiul Hasan</h5>
+                                                <span class="text-neutral-900 cursor-small">Front End Developer</span>
+                                            </div>
+                                            <ul class="d-flex align-items-center tw-gap-2 cursor-small">
+                                                <li class="text-star tw-text-base"><i class="ph-fill ph-star"></i></li>
+                                                <li class="text-star tw-text-base"><i class="ph-fill ph-star"></i></li>
+                                                <li class="text-star tw-text-base"><i class="ph-fill ph-star"></i></li>
+                                                <li class="text-star tw-text-base"><i class="ph-fill ph-star"></i></li>
+                                                <li class="text-star tw-text-base"><i class="ph-fill ph-star"></i></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide swiper-slide-next"
+                                    style="width: 710px; z-index: 2; transform: translate3d(calc(100% - 710px), calc(0px), calc(0px)) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale(1); opacity: 1;"
+                                    role="group" aria-label="2 / 3" data-swiper-slide-index="1">
+                                    <div class="bg-neutral-50">
+                                        <p class="h4 fw-normal tw-leading-18 text-main-two-600 cursor-big">Climb
+                                            the mountain not to plant your flag but to embrace the ways challenge,
+                                            enjoy the air, and behold the. Climb it see the world, not so the world
+                                            can see you. This is due to their excellent service competitive pricing</p>
+                                        <span class="tw-my-10 border-bottom border-neutral-200 d-block"></span>
+
+                                        <div
+                                            class="d-flex align-items-center justify-content-between flex-wrap tw-gap-2">
+                                            <div class="">
+                                                <h5 class="tw-mb-2 cursor-big">Mehedi Hasan</h5>
+                                                <span class="text-neutral-900 cursor-small">UX/Ui Designer</span>
+                                            </div>
+                                            <ul class="d-flex align-items-center tw-gap-2 cursor-small">
+                                                <li class="text-star tw-text-base"><i class="ph-fill ph-star"></i></li>
+                                                <li class="text-star tw-text-base"><i class="ph-fill ph-star"></i></li>
+                                                <li class="text-star tw-text-base"><i class="ph-fill ph-star"></i></li>
+                                                <li class="text-star tw-text-base"><i class="ph-fill ph-star"></i></li>
+                                                <li class="text-star tw-text-base"><i class="ph-fill ph-star"></i></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide"
+                                    style="width: 710px; z-index: 1; transform: translate3d(calc(100% - 1420px), calc(0px), calc(0px)) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale(1); opacity: 1;"
+                                    role="group" aria-label="3 / 3" data-swiper-slide-index="2">
+                                    <div class="bg-neutral-50">
+                                        <p class="h4 fw-normal tw-leading-18 text-main-two-600 cursor-big">Climb
+                                            the mountain not to plant your flag but to embrace the ways challenge,
+                                            enjoy the air, and behold the. Climb it see the world, not so the world
+                                            can see you. This is due to their excellent service competitive pricing</p>
+                                        <span class="tw-my-10 border-bottom border-neutral-200 d-block"></span>
+
+                                        <div
+                                            class="d-flex align-items-center justify-content-between flex-wrap tw-gap-2">
+                                            <div class="">
+                                                <h5 class="tw-mb-2 cursor-big">Robert J. Hare</h5>
+                                                <span class="text-neutral-900 cursor-small">Sr. Product Manager</span>
+                                            </div>
+                                            <ul class="d-flex align-items-center tw-gap-2 cursor-small">
+                                                <li class="text-star tw-text-base"><i class="ph-fill ph-star"></i></li>
+                                                <li class="text-star tw-text-base"><i class="ph-fill ph-star"></i></li>
+                                                <li class="text-star tw-text-base"><i class="ph-fill ph-star"></i></li>
+                                                <li class="text-star tw-text-base"><i class="ph-fill ph-star"></i></li>
+                                                <li class="text-star tw-text-base"><i class="ph-fill ph-star"></i></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-5 d-lg-block d-none">
+                    <div
+                        class="swiper testimonials-three-thumbs-slider swiper-initialized swiper-horizontal swiper-free-mode swiper-watch-progress swiper-backface-hidden swiper-thumbs">
+                        <div class="swiper-wrapper" style="cursor: grab; transform: translate3d(0px, 0px, 0px);"
+                            id="swiper-wrapper-99f352977e227299" aria-live="polite">
+                            <div class="swiper-slide swiper-slide-visible swiper-slide-fully-visible swiper-slide-active swiper-slide-thumb-active"
+                                style="width: 526px;" role="group" aria-label="1 / 3" data-swiper-slide-index="0">
+                                <div class="position-relative tw-me-11 tw-mt-11">
+                                    <div class="mask-shape style-two d-flex position-relative">
+                                        <img src="assets/images/about-img.png" alt="Testimonials Image"
+                                            class="w-100 h-100 object-fit-cover">
+                                    </div>
+                                    <span
+                                        class="tw-w-90-px tw-h-90-px bg-main-600 rounded-circle d-flex justify-content-center align-items-center position-absolute top-0 tw-end-0 tw--me-45-px tw--mt-45-px cursor-big">
+                                        <img src="assets/images/quate-icon.svg" alt="">
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="swiper-slide swiper-slide-next" style="width: 526px;" role="group"
+                                aria-label="2 / 3" data-swiper-slide-index="1">
+                                <div class="position-relative tw-me-11 tw-mt-11">
+                                    <div class="mask-shape style-two d-flex position-relative">
+                                        <img src="assets/images/about-img.png" alt="Testimonials Image"
+                                            class="w-100 h-100 object-fit-cover">
+                                    </div>
+                                    <span
+                                        class="tw-w-90-px tw-h-90-px bg-main-600 rounded-circle d-flex justify-content-center align-items-center position-absolute top-0 tw-end-0 tw--me-45-px tw--mt-45-px cursor-big">
+                                        <img src="assets/images/quate-icon.svg" alt="">
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="swiper-slide" style="width: 526px;" role="group" aria-label="3 / 3"
+                                data-swiper-slide-index="2">
+                                <div class="position-relative tw-me-11 tw-mt-11">
+                                    <div class="mask-shape style-two d-flex position-relative">
+                                        <img src="assets/images/about-img.png" alt="Testimonials Image"
+                                            class="w-100 h-100 object-fit-cover">
+                                    </div>
+                                    <span
+                                        class="tw-w-90-px tw-h-90-px bg-main-600 rounded-circle d-flex justify-content-center align-items-center position-absolute top-0 tw-end-0 tw--me-45-px tw--mt-45-px cursor-big">
+                                        <img src="assets/images/quate-icon.svg" alt="">
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="d-flex align-items-center tw-gap-5 justify-content-center tw-mt-15">
+                <button type="button"
+                    class="cursor-small tw-h-13 tw-w-13 active-scale-09 rounded-circle bg-white text-main-600 hover-bg-main-600 hover-text-white tw-duration-500 tw-text-lg d-flex justify-content-center align-items-center testimonials-three-btn-prev"
+                    tabindex="0" aria-label="Previous slide" aria-controls="swiper-wrapper-17c4b48fe6f9531f">
+                    <i class="ph ph-arrow-left"></i>
+                </button>
+                <button type="button"
+                    class="cursor-small tw-h-13 tw-w-13 active-scale-09 rounded-circle bg-white text-main-600 hover-bg-main-600 hover-text-white tw-duration-500 tw-text-lg d-flex justify-content-center align-items-center testimonials-three-btn-next"
+                    tabindex="0" aria-label="Next slide" aria-controls="swiper-wrapper-17c4b48fe6f9531f">
+                    <i class="ph ph-arrow-right"></i>
+                </button>
+            </div>
+        </div>
+    </section>
+    <!-- =============================== Testimonials section three End ========================= -->
+
+    <!-- ================================= Counter Three section start ================================== -->
+    <section class="pt-140 shape-bg-main-600 position-relative z-1 overflow-hidden tw-pb-6">
+        <div class="container">
+            <div class="row gy-4">
+                <div class="col-lg-3 col-sm-6 col-xs-6">
+                    <div class="counter-three-item common-shadow-five bg-white tw-duration-500 tw-rounded-lg tw-px-2 tw-pb-10 tw-pt-80-px animation-item position-relative text-center tw-mt-14 aos-init"
+                        data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
+                        <span
+                            class="cursor-big bg-white common-shadow-four tw-w-108-px tw-h-108-px d-inline-flex justify-content-center align-items-center rounded-circle tw-duration-300 position-absolute top-0 tw-start-50 tw--translate-x-50 tw--mt-54-px">
+                            <img src="assets/images/counter-three-icon1.svg" alt="" class="animate__heartBeat">
+                        </span>
+
+                        <h2 class="tw-mb-5 cursor-big counter hover-text tw-duration-500 is-visible"
+                            style="visibility: visible;">35+</h2>
+                        <p
+                            class="hover-text tw-duration-500 text-main-two-600 fw-medium tw-text-lg cursor-small max-w-110-px mx-auto">
+                            Main Warehouses</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 col-xs-6">
+                    <div class="counter-three-item common-shadow-five bg-white tw-duration-500 tw-rounded-lg tw-px-2 tw-pb-10 tw-pt-80-px animation-item position-relative text-center tw-mt-14 aos-init"
+                        data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
+                        <span
+                            class="cursor-big bg-white common-shadow-four tw-w-108-px tw-h-108-px d-inline-flex justify-content-center align-items-center rounded-circle tw-duration-300 position-absolute top-0 tw-start-50 tw--translate-x-50 tw--mt-54-px">
+                            <img src="assets/images/counter-three-icon2.svg" alt="" class="animate__heartBeat">
+                        </span>
+
+                        <h2 class="tw-mb-5 cursor-big counter hover-text tw-duration-500">853+</h2>
+                        <p
+                            class="hover-text tw-duration-500 text-main-two-600 fw-medium tw-text-lg cursor-small max-w-110-px mx-auto">
+                            Supply Engineers</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 col-xs-6">
+                    <div class="counter-three-item common-shadow-five bg-white tw-duration-500 tw-rounded-lg tw-px-2 tw-pb-10 tw-pt-80-px animation-item position-relative text-center tw-mt-14 aos-init"
+                        data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300">
+                        <span
+                            class="cursor-big bg-white common-shadow-four tw-w-108-px tw-h-108-px d-inline-flex justify-content-center align-items-center rounded-circle tw-duration-300 position-absolute top-0 tw-start-50 tw--translate-x-50 tw--mt-54-px">
+                            <img src="assets/images/counter-three-icon3.svg" alt="" class="animate__heartBeat">
+                        </span>
+
+                        <h2 class="tw-mb-5 cursor-big counter hover-text tw-duration-500">55+</h2>
+                        <p
+                            class="hover-text tw-duration-500 text-main-two-600 fw-medium tw-text-lg cursor-small max-w-110-px mx-auto">
+                            Countries Covered</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 col-xs-6">
+                    <div class="counter-three-item common-shadow-five bg-white tw-duration-500 tw-rounded-lg tw-px-2 tw-pb-10 tw-pt-80-px animation-item position-relative text-center tw-mt-14 aos-init bg-main-600"
+                        data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400">
+                        <span
+                            class="cursor-big bg-white common-shadow-four tw-w-108-px tw-h-108-px d-inline-flex justify-content-center align-items-center rounded-circle tw-duration-300 position-absolute top-0 tw-start-50 tw--translate-x-50 tw--mt-54-px">
+                            <img src="assets/images/counter-three-icon4.svg" alt="" class="animate__heartBeat">
+                        </span>
+
+                        <h2 class="tw-mb-5 cursor-big counter hover-text tw-duration-500 text-white">40+</h2>
+                        <p
+                            class="hover-text tw-duration-500 text-main-two-600 fw-medium tw-text-lg cursor-small max-w-110-px mx-auto text-white">
+                            Total Services</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ================================= Counter Three section End ================================== -->
+
+    <div class="position-relative z-2 overflow-hidden">
+        <img src="assets/images/blog-three-bg.png" alt="" class="position-absolute tw-start-0 bottom-0 w-100 h-50 z-n1">
+
+        <!-- ============================ Blog Three section start ============================ -->
+        <section class="py-140">
+            <div class="container">
+                <div class="max-w-856-px mx-auto text-center tw-pb-16">
+                    <span
+                        class="splitTextStyleTwo cursor-small tw-text-xl fw-bold fst-italic text-decoration-underline text-main-600 tw-mb-305">safe
+                        transportation &amp; Logistics</span>
+                    <h2 class="splitTextStyleOne cursor-big h1">
+                        <div style="position:relative;display:inline-block;">
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                R</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                e</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                a</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                d</div>
+                        </div>
+                        <div style="position:relative;display:inline-block;">
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                O</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                u</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                r</div>
+                        </div>
+                        <div style="position:relative;display:inline-block;">
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                u</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                p</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                d</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                a</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                t</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                e</div>
+                        </div>
+                        <div style="position:relative;display:inline-block;">
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                n</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                e</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                w</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                s</div>
+                        </div>
+                        <div style="position:relative;display:inline-block;">
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                &amp;</div>
+                        </div>
+                        <div style="position:relative;display:inline-block;">
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                L</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                a</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                t</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                e</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                s</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                t</div>
+                        </div>
+                        <div style="position:relative;display:inline-block;">
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                b</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                l</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                o</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                g</div>
+                            <div
+                                style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px); visibility: inherit;">
+                                s</div>
+                        </div>
+                    </h2>
+                </div>
+
+                <div class="position-relative">
+                    <div class="blog-three-slider swiper swiper-initialized swiper-horizontal swiper-backface-hidden">
+                        <div class="swiper-wrapper"
+                            style="cursor: grab; transition-duration: 0ms; transform: translate3d(-442px, 0px, 0px); transition-delay: 0ms;"
+                            id="swiper-wrapper-52233b39c2223451" aria-live="off">
+
+
+
+
+                            <div class="swiper-slide aos-init swiper-slide-prev" data-aos="fade-up"
+                                data-aos-duration="1000" data-aos-delay="300" style="width: 412px; margin-right: 30px;"
+                                role="group" aria-label="4 / 4" data-swiper-slide-index="3">
+                                <div class="blog-three-item bg-white tw-rounded-2xl tw-p-8 tw-duration-500 group">
+                                    <a href="https://wowtheme7.com/tf/logistick/logistick/blog-details.html"
+                                        class="tw-rounded-2xl overflow-hidden position-relative w-100 h-100">
+                                        <img src="assets/images/blog-three-img2.png" alt=""
+                                            class="w-100 h-100 object-fit-cover hover-scale-2 tw-duration-500">
+                                        <div
+                                            class="d-flex align-items-center tw-gap-2 bg-main-two-600 tw-px-7 tw-py-2 position-absolute tw-start-0 top-0 tw-mt-3 tw-ms-3 rounded-pill">
+                                            <span class="text-white tw-text-sm d-flex"><i
+                                                    class="ph-fill ph-tag"></i></span>
+                                            <span class="text-white tw-text-sm">Volunteer</span>
+                                        </div>
+                                    </a>
+                                    <div class="tw-mt-505">
+                                        <div class="tw-mb-505 d-flex align-items-center tw-gap-6 flex-wrap">
+                                            <div class="d-flex align-items-center tw-gap-2 cursor-small">
+                                                <span class="text-main-600 tw-text-lg hover-text tw-duration-500"><i
+                                                        class="ph-bold ph-user-circle"></i></span>
+                                                <span
+                                                    class="text-neutral-600 tw-text-sm hover-text tw-duration-500">Mehedii
+                                                    .H</span>
+                                            </div>
+                                            <div class="d-flex align-items-center tw-gap-2 cursor-small">
+                                                <span class="text-main-600 tw-text-lg hover-text tw-duration-500"><i
+                                                        class="ph-bold ph-chats-circle"></i></span>
+                                                <span
+                                                    class="text-neutral-600 tw-text-sm hover-text tw-duration-500">Comments
+                                                    (03)</span>
+                                            </div>
+                                        </div>
+                                        <h5 class="tw-mb-10">
+                                            <a href="https://wowtheme7.com/tf/logistick/logistick/blog-details.html"
+                                                class="splitTextStyleTwo line-clamp-2 cursor-big hover-text tw-duration-300">IT
+                                                Service Case Studies Accelerating Business Fly Success Tech</a>
+                                        </h5>
+                                        <a href="https://wowtheme7.com/tf/logistick/logistick/blog-details.html"
+                                            class="text-main-two-600 fw-semibold tw-text-lg hover-text-main-600 cursor-small hover--translate-y-1 tw-duration-150 d-flex align-items-center tw-gap-2">
+                                            <span class=" text-decoration-underline hover-text tw-duration-500">Read
+                                                More</span>
+                                            <span
+                                                class="tw-h-405 tw-w-405 bg-main-600 rounded-circle d-flex justify-content-center align-items-center tw-text-sm text-white group-hover-bg-white group-hover-text-main-600 tw-duration-500">
+                                                <i class="ph ph-arrow-right"></i>
+                                            </span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide aos-init swiper-slide-active" data-aos="fade-up"
+                                data-aos-duration="1000" data-aos-delay="100" style="width: 412px; margin-right: 30px;"
+                                role="group" aria-label="1 / 4" data-swiper-slide-index="0">
+                                <div class="blog-three-item bg-white tw-rounded-2xl tw-p-8 tw-duration-500 group">
+                                    <a href="https://wowtheme7.com/tf/logistick/logistick/blog-details.html"
+                                        class="tw-rounded-2xl overflow-hidden position-relative w-100 h-100">
+                                        <img src="assets/images/blog-three-img1.png" alt=""
+                                            class="w-100 h-100 object-fit-cover hover-scale-2 tw-duration-500">
+                                        <div
+                                            class="d-flex align-items-center tw-gap-2 bg-main-two-600 tw-px-7 tw-py-2 position-absolute tw-start-0 top-0 tw-mt-3 tw-ms-3 rounded-pill">
+                                            <span class="text-white tw-text-sm d-flex"><i
+                                                    class="ph-fill ph-tag"></i></span>
+                                            <span class="text-white tw-text-sm">Volunteer</span>
+                                        </div>
+                                    </a>
+                                    <div class="tw-mt-505">
+                                        <div class="tw-mb-505 d-flex align-items-center tw-gap-6 flex-wrap">
+                                            <div class="d-flex align-items-center tw-gap-2 cursor-small">
+                                                <span class="text-main-600 tw-text-lg hover-text tw-duration-500"><i
+                                                        class="ph-bold ph-user-circle"></i></span>
+                                                <span
+                                                    class="text-neutral-600 tw-text-sm hover-text tw-duration-500">Mehedii
+                                                    .H</span>
+                                            </div>
+                                            <div class="d-flex align-items-center tw-gap-2 cursor-small">
+                                                <span class="text-main-600 tw-text-lg hover-text tw-duration-500"><i
+                                                        class="ph-bold ph-chats-circle"></i></span>
+                                                <span
+                                                    class="text-neutral-600 tw-text-sm hover-text tw-duration-500">Comments
+                                                    (03)</span>
+                                            </div>
+                                        </div>
+                                        <h5 class="tw-mb-10">
+                                            <a href="https://wowtheme7.com/tf/logistick/logistick/blog-details.html"
+                                                class="splitTextStyleTwo line-clamp-2 cursor-big hover-text tw-duration-300">IT
+                                                Service Case Studies Accelerating Business Fly Success Tech</a>
+                                        </h5>
+                                        <a href="https://wowtheme7.com/tf/logistick/logistick/blog-details.html"
+                                            class="text-main-two-600 fw-semibold tw-text-lg hover-text-main-600 cursor-small hover--translate-y-1 tw-duration-150 d-flex align-items-center tw-gap-2">
+                                            <span class=" text-decoration-underline hover-text tw-duration-500">Read
+                                                More</span>
+                                            <span
+                                                class="tw-h-405 tw-w-405 bg-main-600 rounded-circle d-flex justify-content-center align-items-center tw-text-sm text-white group-hover-bg-white group-hover-text-main-600 tw-duration-500">
+                                                <i class="ph ph-arrow-right"></i>
+                                            </span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide aos-init swiper-slide-next" data-aos="fade-up"
+                                data-aos-duration="1000" data-aos-delay="100" style="width: 412px; margin-right: 30px;"
+                                role="group" aria-label="2 / 4" data-swiper-slide-index="1">
+                                <div class="blog-three-item bg-white tw-rounded-2xl tw-p-8 tw-duration-500 group">
+                                    <a href="https://wowtheme7.com/tf/logistick/logistick/blog-details.html"
+                                        class="tw-rounded-2xl overflow-hidden position-relative w-100 h-100">
+                                        <img src="assets/images/blog-three-img2.png" alt=""
+                                            class="w-100 h-100 object-fit-cover hover-scale-2 tw-duration-500">
+                                        <div
+                                            class="d-flex align-items-center tw-gap-2 bg-main-two-600 tw-px-7 tw-py-2 position-absolute tw-start-0 top-0 tw-mt-3 tw-ms-3 rounded-pill">
+                                            <span class="text-white tw-text-sm d-flex"><i
+                                                    class="ph-fill ph-tag"></i></span>
+                                            <span class="text-white tw-text-sm">Volunteer</span>
+                                        </div>
+                                    </a>
+                                    <div class="tw-mt-505">
+                                        <div class="tw-mb-505 d-flex align-items-center tw-gap-6 flex-wrap">
+                                            <div class="d-flex align-items-center tw-gap-2 cursor-small">
+                                                <span class="text-main-600 tw-text-lg hover-text tw-duration-500"><i
+                                                        class="ph-bold ph-user-circle"></i></span>
+                                                <span
+                                                    class="text-neutral-600 tw-text-sm hover-text tw-duration-500">Mehedii
+                                                    .H</span>
+                                            </div>
+                                            <div class="d-flex align-items-center tw-gap-2 cursor-small">
+                                                <span class="text-main-600 tw-text-lg hover-text tw-duration-500"><i
+                                                        class="ph-bold ph-chats-circle"></i></span>
+                                                <span
+                                                    class="text-neutral-600 tw-text-sm hover-text tw-duration-500">Comments
+                                                    (03)</span>
+                                            </div>
+                                        </div>
+                                        <h5 class="tw-mb-10">
+                                            <a href="https://wowtheme7.com/tf/logistick/logistick/blog-details.html"
+                                                class="splitTextStyleTwo line-clamp-2 cursor-big hover-text tw-duration-300">IT
+                                                Service Case Studies Accelerating Business Fly Success Tech</a>
+                                        </h5>
+                                        <a href="https://wowtheme7.com/tf/logistick/logistick/blog-details.html"
+                                            class="text-main-two-600 fw-semibold tw-text-lg hover-text-main-600 cursor-small hover--translate-y-1 tw-duration-150 d-flex align-items-center tw-gap-2">
+                                            <span class=" text-decoration-underline hover-text tw-duration-500">Read
+                                                More</span>
+                                            <span
+                                                class="tw-h-405 tw-w-405 bg-main-600 rounded-circle d-flex justify-content-center align-items-center tw-text-sm text-white group-hover-bg-white group-hover-text-main-600 tw-duration-500">
+                                                <i class="ph ph-arrow-right"></i>
+                                            </span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide aos-init" data-aos="fade-up" data-aos-duration="1000"
+                                data-aos-delay="300" style="width: 412px; margin-right: 30px;" role="group"
+                                aria-label="3 / 4" data-swiper-slide-index="2">
+                                <div class="blog-three-item bg-white tw-rounded-2xl tw-p-8 tw-duration-500 group">
+                                    <a href="https://wowtheme7.com/tf/logistick/logistick/blog-details.html"
+                                        class="tw-rounded-2xl overflow-hidden position-relative w-100 h-100">
+                                        <img src="assets/images/blog-three-img1.png" alt=""
+                                            class="w-100 h-100 object-fit-cover hover-scale-2 tw-duration-500">
+                                        <div
+                                            class="d-flex align-items-center tw-gap-2 bg-main-two-600 tw-px-7 tw-py-2 position-absolute tw-start-0 top-0 tw-mt-3 tw-ms-3 rounded-pill">
+                                            <span class="text-white tw-text-sm d-flex"><i
+                                                    class="ph-fill ph-tag"></i></span>
+                                            <span class="text-white tw-text-sm">Volunteer</span>
+                                        </div>
+                                    </a>
+                                    <div class="tw-mt-505">
+                                        <div class="tw-mb-505 d-flex align-items-center tw-gap-6 flex-wrap">
+                                            <div class="d-flex align-items-center tw-gap-2 cursor-small">
+                                                <span class="text-main-600 tw-text-lg hover-text tw-duration-500"><i
+                                                        class="ph-bold ph-user-circle"></i></span>
+                                                <span
+                                                    class="text-neutral-600 tw-text-sm hover-text tw-duration-500">Mehedii
+                                                    .H</span>
+                                            </div>
+                                            <div class="d-flex align-items-center tw-gap-2 cursor-small">
+                                                <span class="text-main-600 tw-text-lg hover-text tw-duration-500"><i
+                                                        class="ph-bold ph-chats-circle"></i></span>
+                                                <span
+                                                    class="text-neutral-600 tw-text-sm hover-text tw-duration-500">Comments
+                                                    (03)</span>
+                                            </div>
+                                        </div>
+                                        <h5 class="tw-mb-10">
+                                            <a href="https://wowtheme7.com/tf/logistick/logistick/blog-details.html"
+                                                class="splitTextStyleTwo line-clamp-2 cursor-big hover-text tw-duration-300">IT
+                                                Service Case Studies Accelerating Business Fly Success Tech</a>
+                                        </h5>
+                                        <a href="https://wowtheme7.com/tf/logistick/logistick/blog-details.html"
+                                            class="text-main-two-600 fw-semibold tw-text-lg hover-text-main-600 cursor-small hover--translate-y-1 tw-duration-150 d-flex align-items-center tw-gap-2">
+                                            <span class=" text-decoration-underline hover-text tw-duration-500">Read
+                                                More</span>
+                                            <span
+                                                class="tw-h-405 tw-w-405 bg-main-600 rounded-circle d-flex justify-content-center align-items-center tw-text-sm text-white group-hover-bg-white group-hover-text-main-600 tw-duration-500">
+                                                <i class="ph ph-arrow-right"></i>
+                                            </span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+                    </div>
+                    <div class="cursor-big blog-three-button-prev tw-w-14 tw-h-14 rounded-circle tw-text-xl text-white bg-main-600 tw-mt-2 hover-bg-main-600 d-flex justify-content-center align-items-center tw-duration-300 position-absolute top-50 tw--translate-y-50 tw-end-full tw-me-8"
+                        tabindex="0" role="button" aria-label="Previous slide"
+                        aria-controls="swiper-wrapper-52233b39c2223451">
+                        <i class="ph ph-arrow-left"></i>
+                    </div>
+                    <div class="cursor-big blog-three-button-next tw-w-14 tw-h-14 rounded-circle tw-text-xl text-white bg-main-600 tw-mt-2 hover-bg-main-600 d-flex justify-content-center align-items-center tw-duration-300 position-absolute top-50 tw--translate-y-50 tw-start-full tw-ms-8"
+                        tabindex="0" role="button" aria-label="Next slide"
+                        aria-controls="swiper-wrapper-52233b39c2223451">
+                        <i class="ph ph-arrow-right"></i>
+                    </div>
+                </div>
+
+
+                <div class="text-center tw-mt-12">
+                    <a href="https://wowtheme7.com/tf/logistick/logistick/blog.html"
+                        class="cursor-small btn btn-main-two hover-style-three button--stroke d-inline-flex align-items-center justify-content-center tw-gap-5 group active--translate-y-2 rounded-0 tw-px-13 tw-py-505"
+                        data-block="button">
+                        <span class="button__flair" style="translate: none; rotate: none; scale: none;"></span>
+                        <span class="button__label">View Blogs</span>
+                    </a>
+                </div>
+            </div>
+        </section>
+        <!-- ============================ Blog Three section End ============================ -->
+
+        <!-- ================================ Support section start ========================= -->
+        <div class="footer-support z-2 position-relative tw-mb--175-px">
+            <div class="container">
+                <div class="bg-img position-relative" data-background-image="assets/images/thumbs/support-three-bg.png"
+                    style="background: url(&quot;assets/images/thumbs/support-three-bg.png&quot;);">
+                    <img src="assets/images/support-small-plane.png" alt=""
+                        class="support-small-plane position-absolute tw-start-40 bottom-0 tw-mb-205 tw-ms-4"
+                        style="translate: none; rotate: none; scale: none; transform: translate(80px) scale(0.2);">
+
+                    <div class="max-w-548-px tw-py-13 tw-ps-84-px">
+                        <span
+                            class="splitTextStyleTwo cursor-small tw-text-xl fw-bold fst-italic text-decoration-underline text-main-600 tw-mb-305">Safe
+                            Transportation &amp; Logistics</span>
+                        <h3 class="splitTextStyleOne cursor-big tw-mb-5 text-white">
+                            <div style="position:relative;display:inline-block;">
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    W</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    e</div>
+                            </div>
+                            <div style="position:relative;display:inline-block;">
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    e</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    n</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    s</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    u</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    r</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    e</div>
+                            </div>
+                            <div style="position:relative;display:inline-block;">
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    s</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    a</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    f</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    e</div>
+                            </div>
+                            <div style="position:relative;display:inline-block;">
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    t</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    r</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    a</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    n</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    s</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    p</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    o</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    r</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    t</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    a</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    t</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    i</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    o</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    n</div>
+                            </div>
+                            <div style="position:relative;display:inline-block;">
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    &amp;</div>
+                            </div>
+                            <div style="position:relative;display:inline-block;">
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    q</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    u</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    a</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    l</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    i</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    t</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    y</div>
+                            </div>
+                            <div style="position:relative;display:inline-block;">
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    d</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    e</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    l</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    i</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    v</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    e</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    r</div>
+                                <div
+                                    style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 40px); visibility: hidden;">
+                                    y</div>
+                            </div>
+                        </h3>
+                        <a href="https://wowtheme7.com/tf/logistick/logistick/service.html"
+                            class="cursor-small btn btn-main hover-style-two button--stroke d-inline-flex align-items-center justify-content-center tw-gap-5 group active--translate-y-2"
+                            data-block="button">
+                            <span class="button__flair" style="translate: none; rotate: none; scale: none;"></span>
+                            <span class="button__label">View services</span>
+                            <span
+                                class="tw-w-7 tw-h-7 bg-white text-main-600 tw-text-sm tw-rounded d-flex justify-content-center align-items-center position-relative group-hover-bg-main-600 group-hover-text-white tw-duration-500">
+                                <i class="ph-bold ph-check"></i>
+                            </span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- ================================ Support section End ========================= -->
+    </div>
+
+
+    <!-- =============================== Footer three start ==============================  -->
+    <footer class="footer bg-main-two-600 position-relative z-1 mt-auto tw-pt-266-px">
+        <img src="assets/images/truck-light.png" alt=""
+            class="position-absolute bottom-0 tw-start-0 z-n1 d-lg-block d-none">
+
+        <div class="container">
+            <div class="tw-pb-84-px">
+                <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 row-cols-xl-5 gy-5">
+                    <div class="col aos-init" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
+                        <a href="https://wowtheme7.com/tf/logistick/logistick/index.html" class="cursor-big"> <img
+                                src="assets/images/logo3.png" alt=""></a>
+                        <p class="text-neutral-100 tw-mt-10 cursor-small">Our secure online donation platform allows you
+                            to make contributions quickly and safely.</p>
+                        <div class="tw-mt-9">
+                            <ul class="cursor-small d-flex align-items-center tw-gap-3">
+                                <li>
+                                    <a href="https://www.facebook.com/"
+                                        class="tw-w-11 tw-h-11 border border-neutral-1100 rounded-circle text-white tw-text-xl d-flex justify-content-center align-items-center hover-bg-main-600 hover-text-white hover-border-main-600 active-scale-09 tw-duration-200">
+                                        <i class="ph ph-facebook-logo"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.twitter.com/"
+                                        class="tw-w-11 tw-h-11 border border-neutral-1100 rounded-circle text-white tw-text-xl d-flex justify-content-center align-items-center hover-bg-main-600 hover-text-white hover-border-main-600 active-scale-09 tw-duration-200">
+                                        <i class="ph ph-x-logo"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.instagram.com/"
+                                        class="tw-w-11 tw-h-11 border border-neutral-1100 rounded-circle text-white tw-text-xl d-flex justify-content-center align-items-center hover-bg-main-600 hover-text-white hover-border-main-600 active-scale-09 tw-duration-200">
+                                        <i class="ph ph-instagram-logo"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.youtube.com/"
+                                        class="tw-w-11 tw-h-11 border border-neutral-1100 rounded-circle text-white tw-text-xl d-flex justify-content-center align-items-center hover-bg-main-600 hover-text-white hover-border-main-600 active-scale-09 tw-duration-200">
+                                        <i class="ph ph-youtube-logo"></i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col aos-init" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300">
+                        <h5 class="text-white tw-mb-6 cursor-big splitTextStyleTwo">Quick Links</h5>
+                        <ul class="d-flex flex-column tw-gap-6">
+                            <li>
+                                <a href="javascript:void(0)"
+                                    class="hover-arrow cursor-small position-relative text-neutral-500 hover-text-main-600 fw-semibold">Request
+                                    A Freight</a>
+                            </li>
+                            <li>
+                                <a href="javascript:void(0)"
+                                    class="hover-arrow cursor-small position-relative text-neutral-500 hover-text-main-600 fw-semibold">Our
+                                    Services</a>
+                            </li>
+                            <li>
+                                <a href="javascript:void(0)"
+                                    class="hover-arrow cursor-small position-relative text-neutral-500 hover-text-main-600 fw-semibold">What
+                                    We Do</a>
+                            </li>
+                            <li>
+                                <a href="javascript:void(0)"
+                                    class="hover-arrow cursor-small position-relative text-neutral-500 hover-text-main-600 fw-semibold">Shipments</a>
+                            </li>
+                            <li>
+                                <a href="javascript:void(0)"
+                                    class="hover-arrow cursor-small position-relative text-neutral-500 hover-text-main-600 fw-semibold">Pricing
+                                    Flexibility</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col aos-init" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400">
+                        <h5 class="text-white tw-mb-6 cursor-big splitTextStyleTwo">My account</h5>
+                        <ul class="d-flex flex-column tw-gap-6">
+                            <li>
+                                <a href="javascript:void(0)"
+                                    class="hover-arrow cursor-small position-relative text-neutral-500 hover-text-main-600 fw-semibold">Forum
+                                    Support</a>
+                            </li>
+                            <li>
+                                <a href="javascript:void(0)"
+                                    class="hover-arrow cursor-small position-relative text-neutral-500 hover-text-main-600 fw-semibold">Help
+                                    &amp; FAQ</a>
+                            </li>
+                            <li>
+                                <a href="javascript:void(0)"
+                                    class="hover-arrow cursor-small position-relative text-neutral-500 hover-text-main-600 fw-semibold">Contact
+                                    Us</a>
+                            </li>
+                            <li>
+                                <a href="javascript:void(0)"
+                                    class="hover-arrow cursor-small position-relative text-neutral-500 hover-text-main-600 fw-semibold">Pricing
+                                    and plans</a>
+                            </li>
+                            <li>
+                                <a href="javascript:void(0)"
+                                    class="hover-arrow cursor-small position-relative text-neutral-500 hover-text-main-600 fw-semibold">Cookies
+                                    Policy</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col aos-init" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="500">
+                        <h5 class="text-white tw-mb-6 cursor-big splitTextStyleTwo">Latest Post</h5>
+                        <div class="d-flex flex-column tw-gap-8">
+                            <div class="d-flex align-items-center tw-gap-4">
+                                <span class="tw-w-70-px tw-h-70-px rounded-circle overflow-hidden flex-shrink-0">
+                                    <img src="assets/images/latest-post-img1.png" alt=""
+                                        class="w-100 h-100 object-fit-cover">
+                                </span>
+                                <div class="">
+                                    <div class="cursor-small d-flex align-items-center tw-gap-2">
+                                        <span class="text-main-600 d-flex"><i
+                                                class="ph-fill ph-calendar-blank"></i></span>
+                                        <span class="text-neutral-600">24th May 2023</span>
+                                    </div>
+                                    <h6 class="tw-mt-205">
+                                        <a href="https://wowtheme7.com/tf/logistick/logistick/blog-details.html"
+                                            class="cursor-big tw-text-base text-white hover-text-main-600 line-clamp-2">
+                                            This Place Really Place Awesome </a>
+                                    </h6>
+                                </div>
+                            </div>
+                            <div class="d-flex align-items-center tw-gap-4">
+                                <span class="tw-w-70-px tw-h-70-px rounded-circle overflow-hidden flex-shrink-0">
+                                    <img src="assets/images/latest-post-img2.png" alt=""
+                                        class="w-100 h-100 object-fit-cover">
+                                </span>
+                                <div class="">
+                                    <div class="cursor-small d-flex align-items-center tw-gap-2">
+                                        <span class="text-main-600 d-flex"><i
+                                                class="ph-fill ph-calendar-blank"></i></span>
+                                        <span class="text-neutral-600">24th May 2023</span>
+                                    </div>
+                                    <h6 class="tw-mt-205">
+                                        <a href="https://wowtheme7.com/tf/logistick/logistick/blog-details.html"
+                                            class="cursor-big tw-text-base text-white hover-text-main-600 line-clamp-2">
+                                            This Place Really Place Awesome </a>
+                                    </h6>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col aos-init" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="600">
+                        <div class="d-flex flex-column tw-gap-9">
+                            <div class="">
+                                <h5 class="cursor-big text-white tw-mb-6 cursor-big splitTextStyleTwo">Address:</h5>
+                                <p class="cursor-small text-neutral-600">570 8th Ave, New York,NY 10018 United States
+                                </p>
+                            </div>
+                            <div class="">
+                                <h5 class="cursor-big text-white tw-mb-6 cursor-big splitTextStyleTwo">Hours: </h5>
+                                <p class="cursor-small text-neutral-600">9.30am - 6.30pm</p>
+                                <p class="cursor-small text-neutral-600">Monday to Friday</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="container">
+            <!-- bottom Footer -->
+            <div class="border-top border-dashed border-neutral-1100 border-0 tw-py-8">
+                <div class="container container-two">
+                    <div class="d-flex align-items-center justify-content-between tw-gap-6 flex-wrap">
+                        <div class="mb-0">
+                            <a href="https://wowtheme7.com/tf/logistick/logistick/index.html" class="cursor-big"> <img
+                                    src="assets/images/logo3.png" alt=""></a>
+                        </div>
+                        <p class="text--white text-line-1 fw-normal cursor-small"> © 2025
+                            <a href="https://themeforest.net/user/wowtheme7/portfolio"
+                                class="text-main-600 hover--translate-y-1 fw-bold hover-underline hover-text-main-600 cursor-big">wowtheme7</a>
+                            -Logistic Service. All rights reserved.
+                        </p>
+                        <div class="d-flex align-items-center tw-gap-6">
+                            <a href="javascript:void(0)"
+                                class="fw-semibold text-neutral-500 hover-text-white hover-underline cursor-small hover--translate-y-1">Company</a>
+                            <a href="javascript:void(0)"
+                                class="fw-semibold text-neutral-500 hover-text-white hover-underline cursor-small hover--translate-y-1">Support</a>
+                            <a href="javascript:void(0)"
+                                class="fw-semibold text-neutral-500 hover-text-white hover-underline cursor-small hover--translate-y-1">Privacy</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- =============================== Footer three End ==============================  -->
+
+    <!-- Jquery js -->
+    <script src="assets/js/jquery-3.7.1.min.js"></script>
+
+    <!-- phosphor Js -->
+    <script src="assets/js/phosphor-icon.js"></script>
+    <!-- Bootstrap Bundle Js -->
+    <script src="assets/js/boostrap.bundle.min.js"></script>
+    <!-- swiper slider Js -->
+    <script src="assets/js/swiper-bundle.min.js"></script>
+    <!-- Split Text -->
+    <script src="assets/js/SplitText.min.js"></script>
+    <!-- Scroll Trigger -->
+    <script src="assets/js/ScrollTrigger.min.js"></script>
+    <!-- Gsap js -->
+    <script src="assets/js/gsap.min.js"></script>
+    <!-- custom gsap -->
+    <script src="assets/js/custom-gsap.js"></script>
+    <!-- aos -->
+    <!-- <script src="assets/js/aos.js"></script> -->
+    <!-- Circle Progress bar -->
+    <script src="assets/js/animated-radial-progress.js"></script>
+    <!-- counter up -->
+    <script src="assets/js/counterup.min.js"></script>
+    <!-- magnific popup -->
+    <script src="assets/js/magnific-popup.min.js"></script>
+    <!-- marquee -->
+    <script src="assets/js/jquery.marquee.min.js"></script>
+
+    <!-- main js -->
+    <script src="assets/js/main.js"></script>
+
+
+
+
+</body>
+
+</html>
